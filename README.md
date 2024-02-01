@@ -2,8 +2,8 @@
 
 This is the accompanying repository for the PAM 2024 paper “Following the Data Trail: An
 Analysis of IXP Dependencies”. Here you can find the data and scripts required to
-replicate the plots and analysis from the paper (and more). For updated weekly dependency data
-please refer to [the main website.]()
+reproduce the plots and analysis from the paper (and more). For updated weekly dependency data
+please refer to [the main website.](https://internethealthreport.github.io/ixp-dependency/)
 
 This repository is self-contained and contains the entire data pipeline from the raw
 data to the final figures. However, there are some files that mark the source of the
