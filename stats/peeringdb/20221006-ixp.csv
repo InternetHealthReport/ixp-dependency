@@ -1,0 +1,1042 @@
+id,org_id,name,name_long,country,peers_combined,peers_v4,peers_v6
+1,2,Equinix Ashburn,Equinix Internet Exchange Ashburn,US,340,339,294
+2,2,Equinix Chicago,Equinix Internet Exchange Chicago,US,247,246,213
+3,2,Equinix Dallas,Equinix Internet Exchange Dallas,US,187,187,160
+4,2,Equinix Los Angeles,Equinix Internet Exchange Los Angeles,US,93,93,84
+5,2,Equinix San Jose,Equinix Internet Exchange San Jose (Bay Area),US,214,214,176
+7,2,Equinix Palo Alto,Equinix Internet Exchange Palo Alto,US,98,98,85
+9,2,Equinix Atlanta,Equinix Internet Exchange Atlanta,US,25,25,23
+10,2,Equinix Vienna (VA),Equinix Internet Exchange Vienna  VA,US,4,4,1
+11,2,Equinix Seattle,Equinix Internet Exchange Seattle,US,30,30,25
+12,2,Equinix New York,Equinix Internet Exchange New York,US,124,124,102
+13,29,SIX Seattle,Seattle Internet Exchange (MTU 1500),US,355,355,319
+14,32,NYIIX New York,New York International Internet eXchange,US,212,212,198
+17,2,Equinix Miami,Equinix Internet Exchange Miami,US,168,168,154
+18,791,LINX LON1,London Internet Exchange Ltd.,GB,816,814,698
+21,9636,IX Australia (Perth WA),West Australian Internet Exchange (WAIX),AU,88,88,69
+22,8592,Digital Realty Atlanta,Digital Realty Atlanta Internet Exchange,US,153,153,127
+23,32,NYIIX Los Angeles,New York International Internet eXchange - Los Angeles,US,28,28,26
+24,61,TorIX,Toronto Internet Exchange Community,CA,255,255,204
+26,2634,AMS-IX,Amsterdam Internet Exchange,NL,801,800,723
+29,2,Equinix Zurich,Equinix Internet Exchange Zurich,CH,44,44,40
+30,5600,JPIX TOKYO,Japan Internet Exchange Tokyo,JP,245,245,200
+31,1187,DE-CIX Frankfurt,,DE,974,972,919
+33,2670,CIXP,CERN Internet eXchange Point,CH,43,43,40
+34,3593,SFINX,Service for French INternet eXchange,FR,32,32,19
+35,3207,MIX-IT,Milan Internet eXchange,IT,342,342,268
+42,94,HKIX,Hong Kong Internet Exchange,HK,290,290,240
+43,1023,TWIX,Taiwan Internet Exchange,TW,23,23,19
+48,679,INEX LAN1,Internet Neutral Exchange Association CLG,IE,99,99,78
+50,106,VIX,Vienna Internet Exchange,AT,144,144,138
+52,113,KINX,Korean Internet Neutral Exchange,KR,82,82,48
+53,115,LONAP,London Access Point,GB,235,235,212
+55,15701,BiX,Budapest Internet eXchange,HU,71,71,63
+59,214,BNIX,Belgian National Internet eXchange,BE,60,60,51
+60,131,SwissIX,SwissIX Internet Exchange,CH,224,224,212
+62,9273,CATNIX,Catalunya Neutral Internet Exchange,ES,47,47,39
+63,136,ESPANIX Madrid Lower LAN,Espanix Lower LAN 2,ES,145,145,120
+64,138,NL-ix,Neutral Internet Exchange,NL,405,400,363
+69,752,LyonIX,Lyonix  the Lyon IX,FR,74,74,59
+70,2417,Netnod Stockholm GREEN -- MTU1500,Netnod AB,SE,174,174,166
+71,155,NIX.CZ,Neutral Internet Exchange in the Czech Republic,CZ,142,142,134
+72,1232,GigaPIX - LAN 1,GIGAbit Portuguese Internet eXchange - LAN 1,PT,48,48,46
+73,13167,ECIX-MUC,ECIX-MUC (FKA INXS),DE,44,44,42
+74,1187,DE-CIX Hamburg,,DE,168,166,161
+76,165,GN-IX,Groningen Internet Exchange,NL,3,3,1
+77,169,LIX,Luxemburg Internet Exchange,LU,1,1,0
+78,14520,DIX,Danish Internet Exchange,DK,33,33,31
+82,461,Pacific Wave,Pacific Wave Exchange in LA  Sunnyvale and Seattle,US,12,12,12
+83,14855,NIX1,Norwegian Internet Exchange  NIX1 (location 1),NO,60,60,59
+84,187,SIX.SK,Slovak Internet eXchange,SK,40,40,32
+85,190,NDIX,Nederlands Duitse Internet Exchange,NL,16,16,11
+87,9771,BCIX,Berlin Commercial Internet Exchange,DE,125,125,122
+88,12354,IAIX,iAdvantage Internet Exchange,HK,14,14,8
+89,199,MadIX,Madison Internet Exchange,US,15,15,12
+91,13167,ECIX-DUS,European Commercial Internet Exchange Duesseldorf,DE,117,117,108
+92,1073,DIX-IE,Distributed IX in EDO (former NSPIXP2),JP,21,20,18
+93,1279,SOX,Singapore Open Exchange,SG,18,18,12
+94,2,Equinix Sydney,Equinix Internet Exchange Sydney,AU,220,218,178
+95,1479,JPNAP Tokyo,JPNAP Tokyo,JP,200,199,169
+97,727,APE,Auckland Peering Exchange,NZ,39,39,27
+98,223,FICIX 2 (Helsinki),FICIX 2 Helsinki,FI,44,44,41
+100,228,MSK-IX Moscow,MSK-IX Moscow,RU,315,315,227
+105,260,PIPE Networks Sydney,Pipe Networks MLPA Sydney,AU,21,21,12
+107,228,MSK-IX Saint-Petersburg,MSK-IX Saint-Petersburg (former SPB-IX),RU,64,64,50
+110,260,PIPE Networks Brisbane,PIPE Networks Brisbane,AU,10,10,6
+111,260,PIPE Networks Melbourne,PIPE Networks Melbourne,AU,5,5,3
+112,260,PIPE Networks Adelaide,PIPE Networks Adelaide,AU,3,3,1
+113,260,PIPE Networks Canberra,PIPE Networks Canberra,AU,0,0,0
+114,260,PIPE Networks Hobart,PIPE Networks Hobart,AU,1,1,0
+115,259,TOP-IX,Consorzio Top-IX,IT,102,102,72
+119,2,Equinix São Paulo,Equinix Internet Exchange Sao Paulo,BR,148,148,142
+121,2136,Namex Rome IXP,Nautilus Mediterranean Exchange Point,IT,134,134,108
+123,1350,KleyReX,KleyReX Internet Exchange,DE,392,335,384
+125,2,Equinix Hong Kong,Equinix Internet Exchange Hong Kong,HK,199,199,174
+126,8440,BBIX Tokyo,BroadBand Internet eXchange Tokyo,JP,279,279,245
+127,283,Oregon Internet Exchange (OIX),Oregon-IX,US,2,2,0
+128,1901,SOLIX MTU1500,Stockholm Open Local Internet Exchange MTU1500,SE,50,50,49
+129,288,JINX,Johannesburg Internet Exchange,ZA,140,140,128
+135,293,N-IX,Nuernberger Internet Exchange [N-IX.de],DE,22,22,21
+141,309,TampaIX,Tampa Internet Exchange,US,1,1,0
+142,34,Any2West,CoreSite - Any2West,US,282,282,251
+145,1479,JPNAP Osaka,JPNAP Osaka,JP,80,80,75
+146,319,GIX Gothenburg,Gothenburg Internet Exchange,SE,1,1,0
+151,331,BigApe,The Big Apple Peering Exchange,US,3,3,3
+154,336,BAYANTEL,Bayan Telecommunications Internet and Gaming Exchange,PH,3,3,0
+155,340,SFMIX,San Francisco Metropolitan Internet Exchange,US,82,81,76
+158,2,Equinix Singapore,Equinix Internet Exchange Singapore,SG,397,394,359
+165,352,NWAX,Northwest Access Exchange  Inc.,US,103,103,83
+167,2,Equinix Tokyo,Equinix Internet Exchange Tokyo,JP,123,123,108
+170,1220,OCIX Duesseldorf,OpenCarrier eG Member IX Duesseldorf ,DE,4,4,4
+171,1245,IX.br (PTT.br) São Paulo,IX.br (PTT.br) São Paulo,BR,1518,1517,1439
+172,12240,STHIX - Stockholm,Stockholm Internet eXchange,SE,109,109,108
+173,1245,IX.br (PTT.br) Porto Alegre,IX.br (PTT.br) Porto Alegre,BR,197,196,181
+174,1245,IX.br (PTT.br) Curitiba,IX.br (PTT.br) Curitiba,BR,132,132,120
+175,1245,IX.br (PTT.br) Florianópolis,IX.br (PTT.br) Florianópolis,BR,68,68,64
+176,1245,IX.br (PTT.br) Belo Horizonte,IX.br (PTT.br) Belo Horizonte,BR,53,53,48
+177,1245,IX.br (PTT.br) Rio de Janeiro,IX.br (PTT.br) Rio de Janeiro,BR,397,397,384
+178,1245,IX.br (PTT.br) Brasília,IX.br (PTT.br) Brasília,BR,89,89,77
+184,406,UA-IX,Ukrainian Internet Exchange,UA,127,127,64
+189,411,HIX,Hawai`i Internet Exchange,US,1,1,0
+190,415,TLLIX,Tallinn Internet Exchange,EE,10,10,6
+192,2417,Netnod Gothenburg -- MTU1500,Netnod AB,SE,15,15,14
+193,2417,Netnod Copenhagen GREEN -- MTU9K,Netnod AB,DK,57,57,56
+194,2417,Netnod Sundsvall -- MTU1500,Netnod AB,SE,17,17,16
+196,432,PIX Montreal,Peer1 Internet Exchange - Montreal,CA,0,0,0
+197,434,PIX Toronto,Peer1 Internet Exchange - Toronto,CA,2,2,0
+198,10649,NIXI Delhi,National Internet eXchange of India,IN,34,34,14
+199,439,YRIX,Yellowstone Regional Internet eXchange,US,1,1,0
+204,34,Any2East,CoreSite - Any2East,US,24,23,21
+205,34,Any2Miami,CoreSite - Any2Miami,US,0,0,0
+209,13167,ECIX-BER,European Commercial Internet Exchange Berlin,DE,51,51,48
+210,15198,IIX-Jakarta,Indonesia Internet Exchange,ID,368,367,155
+212,6751,Stuttgart-IX,Stuttgarter Internet eXchange  Stuttgart-IX,DE,27,27,26
+217,761,TaipeiGigaPoP,Taipei GigaPoP Internet Exchange,TW,0,0,0
+223,228,MSK-IX Novosibirsk,MSK-IX Novosibirsk (former NSK-IX),RU,28,28,16
+224,10649,NIXI Mumbai,National Internet eXchange of India,IN,78,78,27
+225,6947,Thailand IX (TH-IX),Thailand Internet Exchange,TH,39,39,37
+226,34,Any2Chicago,CoreSite - Any2Chicago,US,12,12,12
+228,9215,RIX,Reykjavik Internet Exchange,IS,25,25,22
+230,17680,POZIX,Poznan Internet Exchange,PL,26,26,14
+231,509,MalmIX Malmo / IXOR,Internet eXchange point of the Oresund Region,SE,13,13,9
+234,1073,NSPIXP3,Wide NSPIXP3,JP,2,2,2
+235,10649,NIXI Chennai,National Internet eXchange of India,IN,39,39,23
+236,15670,KIXP - Nairobi,Kenya Internet Exchange Point - Nairobi,KE,56,56,48
+239,10843,ChIX,Chicago Internet Exchange,US,65,65,63
+240,534,MINAP Milan,Milan Neutral Access Point,IT,78,78,71
+241,537,npIX PTS,Internet Exchange Nepal,NP,27,27,16
+248,1187,DE-CIX Munich,,DE,177,174,171
+249,15749,KCIX,Kansas City Internet Exchange,US,128,128,119
+250,549,MyIX,Malaysia Internet Exchange,MY,111,111,96
+252,10106,NAP Colombia,NAP Colombia,CO,16,16,14
+253,10907,NAP.EC - UIO,NAP Ecuador - Quito (managed by AEPROVI),EC,18,18,18
+254,34,Any2Denver,CoreSite - Any2Denver,US,72,72,65
+255,2,Equinix Paris,Equinix Internet Exchange Paris,FR,259,259,229
+256,8592,Digital Realty Phoenix,Digital Realty Phoenix Internet Exchange,US,6,6,6
+257,2417,Netnod Lulea -- MTU9K,Netnod AB,SE,5,5,4
+258,19051,Norrnod,Norrnod Umea,SE,2,2,0
+260,8316,OCIX,Open Caribbean Internet eXchange,SX,5,5,3
+262,580,SISPA,Swaziland Peering Point,SZ,1,1,0
+264,2,Equinix Warsaw,Equinix Internet Exchange Warsaw,PL,199,199,139
+267,5311,DRF IX,DRFortress Exchange,US,25,25,14
+270,591,InterLAN,InterLAN Internet Exchange Romania,RO,101,101,89
+273,594,TIX,Tuscany Internet eXchange,IT,16,16,2
+274,596,CAIX,Cairo Internet eXchange,EG,4,4,1
+275,598,BY-IX,Belarusian Internet Exchange,BY,3,3,0
+287,610,Crimea-IX,Crimea-IX,UA,7,7,0
+288,613,ACTIX,ACT Internet Exchange,AU,3,3,2
+291,13167,ECIX-HAM,European Commercial Internet Exchange Hamburg,DE,60,60,58
+297,625,LU-CIX,Luxembourg Internet Exchange,LU,73,73,65
+298,14855,NIX2,Norwegian Internet Exchange (location 2),NO,13,13,13
+299,155,NIX.SK,Neutral Internet eXchange Slovakia,SK,44,44,41
+301,15412,RoNIX,Romanian Internet Exchange,RO,41,41,28
+303,2577,CIX,Croatian Internet Exchange,HR,34,34,24
+311,646,VSIX,Veneto System Internet Exchange,IT,43,43,23
+313,138,R_iX,Rotterdam Internet Exchange,NL,13,13,11
+314,1245,IX.br (PTT.br) Londrina,IX.br (PTT.br) Londrina,BR,32,32,28
+316,654,ExWest,Exchange West,IE,2,2,2
+317,656,GIX,Globe Internet Exchange,PH,11,11,0
+319,2091,SIX SI,Slovenian Internet Exchange,SI,20,20,18
+321,791,LINX LON2,London Internet Exchange Ltd.,GB,328,328,273
+322,8592,Digital Realty Dallas,Digital Realty Dallas Internet Exchange,US,11,11,9
+325,8592,Digital Realty New York,Digital Realty New York Internet Exchange,US,71,71,64
+326,7639,B-IX,Balkan Internet Exchange,BG,37,37,17
+327,13127,DTEL-IX,Digital Telecom Internet Exchange,UA,167,167,99
+328,12394,TREX,Tampere Region Exchange,FI,21,21,21
+331,690,BIX.BG,BIX.BG - Bulgarian Internet eXchange,BG,92,91,64
+334,699,KAZ-IX,Kazakhstan Traffic Exchange,KZ,6,6,0
+336,701,TOUIX,Toulouse Internet eXchange,FR,8,8,4
+340,705,ULN-IX,Ulyanovsk Internet eXchange,RU,6,6,5
+344,288,CINX,Cape Town Internet Exchange,ZA,75,75,70
+347,1904,GR-IX::Athens,Greek Internet Exchange - Athens,GR,55,55,49
+348,727,WIX-NZ,Wellington Internet Exchange,NZ,29,29,25
+349,727,CHIX-NZ,Christchurch Internet Exchange,NZ,1,1,0
+350,228,MSK-IX Ekaterinburg,MSK-IX Ekaterinburg (former EKT-IX),RU,28,28,20
+355,14496,QIX,Quebec Internet eXchange (QIX),CA,76,76,63
+357,7072,SOAX,Southern Oregon Access Exchange,US,0,0,0
+358,1524,DATAIX,Global Network Managment Ltd,NL,314,314,179
+359,752,France-IX Paris,FranceIX Paris,FR,395,395,357
+361,14913,TIX Tanzania - Dar es Salaam,Tanzania Internet eXchange,TZ,27,27,23
+363,762,SUPRnet,Southern Utah Peering Regional Network,US,20,20,19
+364,2362,SMILE-IXP,Santa Monica Internet Local Exchange,LV,26,26,23
+366,2634,AMS-IX Caribbean,Amsterdam Internet Exchange Caribbean,CW,9,9,6
+368,1232,GigaPIX - Oporto,GIGAbit Portuguese Internet eXchange OPorto,PT,2,2,2
+372,11781,Balcan-IX,BALCAN-IX,RO,34,34,22
+373,2,Equinix Toronto,Equinix Internet Exchange Toronto,CA,18,18,16
+375,3054,OpenIXP / NiCE,National Inter Connection Exchange (NiCE),ID,380,379,130
+377,1258,AAIX,Alpes Adria Internet eXchange,AT,17,17,17
+378,228,MSK-IX Vladivostok,MSK-IX Vladivostok (former VLV-IX),RU,10,10,5
+379,228,MSK-IX Samara,MSK-IX Samara (former SMR-IX),RU,10,10,7
+380,228,MSK-IX Rostov-on-Don,MSK-IX Rostov-on-Don (former RND-IX),RU,16,16,13
+381,802,REUNIX,REUNIX,RE,6,6,0
+383,806,LIX-LV,Latvian Internet Exchange,LV,7,7,0
+387,679,INEX LAN2,Internet Neutral Exchange Association CLG,IE,63,63,47
+392,2486,MD-IX,Internet eXchange Moldova,MD,11,11,10
+393,813,IIX Israel,Israel Internet eXchange,IL,12,12,7
+398,228,MSK-IX Kazan,MSK-IX Kazan (former KZN-IX),RU,5,5,4
+400,824,LIPTAM,Lietuvos Interneto paslaugų tiekėjų apsikeitimo mazgu,LT,6,6,3
+410,18644,FR-IX,FR-IX,FR,3,3,1
+415,1245,IX.br (PTT.br) Campinas,IX.br (PTT.br) Campinas,BR,34,34,28
+421,10883,Angola IXP,Angola Internet Exchange point,AO,13,13,7
+422,14912,UIXP,Kampala,UG,18,18,12
+424,3206,SOX Serbia,Serbian Open eXchange,RS,33,33,30
+428,2737,NASA-AIX,NASA Ames Internet eXchange,US,2,2,2
+429,2784,SGIX,Singapore Internet Exchange,SG,176,176,163
+430,2811,GraX,Grazer Internet eXchange,AT,4,4,0
+435,2850,IXLeeds,Leeds Internet Exchange,GB,24,24,21
+446,15188,MICE,Midwest Internet Cooperative Exchange,US,132,132,110
+452,14803,BIX Jakarta,Biznet Internet Exchange,ID,93,93,38
+453,3041,FIXO,FIXO Internet Exchange Oslo,NO,42,42,36
+463,3212,GU-IX,Guam Internet Exchange,GU,1,1,0
+474,16815,EPIX.Warszawa-KIX,EPIX,PL,327,327,133
+476,3644,AZIX,Arizona Internet Exchange,US,2,2,2
+477,3441,CBIX,Commercial Brno Internet Exchange,CZ,1,1,0
+481,1540,THINX Warsaw,Thinx Warsaw,PL,103,103,63
+482,16785,TPIX PL,TPIX,PL,159,159,68
+487,4748,CyIX,Cyprus Internet Exchange,CY,3,3,0
+488,14391,IXPN Lagos,Internet Exchange Point of Nigeria,NG,63,63,43
+491,16815,EPIX.Katowice,Stowarzyszenie na Rzecz Rozwoju Spoleczenstwa Informacyjnego e-Poludnie,PL,406,406,153
+492,223,FICIX 3 (Oulu),FICIX 3 Oulu,FI,9,9,8
+496,4011,BNIIX,Buffalo Niagara International Internet Exchange,US,3,3,3
+499,4185,MKE-IX,The Milwaukee IX,US,11,11,7
+506,4012,GTIIX,Greater Toronto International Internet Exchange,CA,4,4,3
+512,15594,PIRIX,Pirix Internet Exchange,RU,13,13,5
+513,9636,IX Australia (Melbourne VIC),Victorian Internet Exchange (VIC-IX),AU,109,109,90
+514,4079,COIX,Central Oregon Internet eXchange,US,7,7,7
+524,4320,CePIX.pl,Central Polish Internet eXchange,PL,1,1,0
+526,4538,LIXP,Lithuanian Internet eXchange Point,LT,21,21,17
+528,4560,MOZIX,Mozambique Internet Exchange,MZ,18,18,3
+529,4634,KRS-IX,Krasnoyarsk Internet Exchange,RU,5,5,0
+538,19383,RTIX,Tallinn Governmental Internet Exchange,EE,33,33,27
+542,12713,Litix,Lithuanian peering center,LT,21,21,15
+543,14262,Rheintal IX,Rheintal Internet Exchange,LI,34,34,31
+556,1245,IX.br (PTT.br) Salvador,IX.br (PTT.br) Salvador,BR,67,67,61
+558,1245,IX.br (PTT.br) Caxias do Sul,IX.br (PTT.br) Caxias do Sul,BR,10,10,9
+559,187,SIX.SK Košice,Slovak Internet Exchange Košice,SK,3,3,0
+563,5570,JXIX,Jacksonville Internet Exchange,US,15,15,15
+564,5600,JPIX OSAKA,Japan Internet Exchange Osaka,JP,87,87,77
+565,373,Boston Internet Exchange,Boston Internet Exchange,US,57,57,45
+566,5641,PNIX,Palmerston North Internet Exchange,NZ,1,1,0
+573,5777,HIX Haiti,Haiti Internet Exchange,HT,3,3,0
+575,1245,IX.br (PTT.br) Goiânia,IX.br (PTT.br) Goiânia,BR,27,27,24
+576,9636,IX Australia (Brisbane QLD),Queensland Internet Exchange (QLD-IX),AU,80,79,70
+577,2634,AMS-IX Hong Kong,Amsterdam Internet Exchange Hong Kong,HK,54,54,41
+580,228,MSK-IX Stavropol,MSK-IX Stavropol (former STW-IX),RU,2,2,2
+582,14855,BIX Bergen,Bergen Internet Exchange,NO,3,3,3
+583,791,LINX Manchester,LINX Manchester,GB,123,122,108
+587,1187,UAE-IX,UAE-IX powered by DE-CIX,AE,79,79,71
+592,14127,NAPAfrica IX Johannesburg,NAPAfrica IX Johannesburg,ZA,471,470,342
+597,14127,NAPAfrica IX Cape Town,NAPAfrica IX Cape Town,ZA,246,246,193
+598,10649,NIXI Hyderabad,National Internet eXchange of India,IN,2,2,0
+602,6629,Echigo-IX,Echigo Internet Exchange,JP,2,2,2
+603,1245,IX.br (PTT.br) Campina Grande,IX.br (PTT.br) Campina Grande,BR,36,36,29
+606,14190,C2IX,Cyber 2 Internet Exchange,ID,13,13,11
+607,6749,MIX MNDC,Mongolian Internet Exchange & Mongolian National Data Center,MN,6,6,0
+610,288,DINX,Durban Internet Exchange,ZA,81,81,73
+615,6909,LuIXP,Lusaka Internet Exchange Point,ZM,2,2,0
+624,5380,TP-IX,Twin Ports Internet Exchange,US,2,2,1
+626,15198,IIX-JawaTimur,IIX Jawa Timur,ID,27,27,11
+627,34,SNAP,Southeast Network Access Point,US,24,24,16
+628,14612,KINIX,KINshasa Internet eXchange,CD,15,15,0
+633,15378,Sea-IX,South Russia IX,RU,15,15,4
+635,7169,OMSK-IX,Omsk Internet Exchange,RU,3,3,0
+638,1245,IX.br (PTT.br) São José dos Campos,IX.br (PTT.br) Sao José dos Campos,BR,9,9,6
+639,8375,YYCIX,YYCIX Calgary Internet Exchange,CA,68,68,57
+640,7202,GCIIX,Greater Chicago International Internet Exchange,US,1,1,1
+655,7437,GigaNET Kyiv,Giganet Internet exchange network,UA,173,173,98
+662,7483,Phoenix-IX,Phoenix IX,US,64,64,61
+672,7625,CyrusOne IX Dallas,CyrusOne Internet Exchange,US,4,4,3
+673,2680,Databank IX Houston,Databank Internet Exchange,US,17,17,16
+674,7625,CyrusOne IX Austin,CyrusOne Internet Exchange,US,1,1,0
+675,7625,CyrusOne IX San Antonio,CyrusOne Internet Exchange,US,0,0,0
+676,13167,ECIX-FRA,European Commercial Internet Exchange Frankfurt,DE,102,102,98
+683,7692,YAR-IX,Yaroslavl Internet Exchange,RU,0,0,0
+691,9636,IX Australia (Adelaide SA),South Australian Internet Exchange (SA-IX),AU,43,43,40
+694,14923,GIXA,Ghana Internet Exchange Association,GH,26,26,0
+699,7798,NetIX,NetIX Communications Ltd.,BG,100,99,91
+703,11335,MBIX,Manitoba Internet Exchange,CA,31,31,30
+705,1245,IX.br (PTT.br) Recife,IX.br (PTT.br) Recife,BR,81,81,74
+706,1245,IX.br (PTT.br) Vitória,IX.br (PTT.br) Vitória,BR,46,46,42
+707,1245,IX.br (PTT.br) Manaus,IX.br (PTT.br) Manaus,BR,29,28,26
+708,1245,IX.br (PTT.br) Natal,IX.br (PTT.br) Natal,BR,31,31,28
+709,1245,IX.br (PTT.br) São José do Rio Preto,IX.br (PTT.br) São José do Rio Preto,BR,20,20,18
+710,1245,IX.br (PTT.br) Fortaleza,IX.br (PTT.br) Fortaleza,BR,373,373,356
+711,1245,IX.br (PTT.br) Belém,IX.br (PTT.br) Belém,BR,25,25,22
+713,7934,Peering.cz,Peering.cz eXchange,CZ,130,130,115
+716,9636,IX Australia (Sydney NSW),New South Wales Internet Exchange (NSW-IX),AU,218,218,181
+727,8077,MIX-BT,Malawi Internet Exchange (MIX),MW,9,9,3
+745,791,LINX Scotland,LINX Scotland,GB,39,39,35
+760,7625,CyrusOne IX Phoenix,CyrusOne Internet Exchange,US,2,2,1
+762,5031,DO-IX,Dortmund Internet eXchange,DE,10,10,10
+766,8329,DN-IX,Donetsk Internet eXchange,UA,2,2,1
+776,8399,WPGIX,Winnipeg Internet Exchange,CA,13,13,10
+777,791,LINX NoVA,LINX Northern Virginia  Ashburn  Reston and Manassas,US,51,51,49
+778,8441,CIX KR,CIX - Cracow Internet Exchange,PL,10,10,0
+779,13167,MegaIX Melbourne,Megaport MegaIX Melbourne,AU,130,130,105
+780,13167,MegaIX Sydney,Megaport MegaIX Sydney,AU,239,238,181
+781,13167,MegaIX Brisbane,Megaport MegaIX Brisbane,AU,86,86,67
+786,8440,BBIX Osaka,BroadBand Internet eXchange Osaka,JP,86,86,81
+790,1245,IX.br (PTT.br) Lajeado,IX.br (PTT.br) Lajeado,BR,26,26,23
+796,6745,BREM-IX,Bremen Internet Exchange,DE,9,9,8
+804,1187,DE-CIX New York,,US,244,244,234
+809,8583,OmahaIX,Omaha Internet Exchange,US,35,35,30
+810,14917,CIVIX,Cote d'Ivoire Internet Exchange Point (CIVIX),CI,10,10,0
+815,8636,NNOV-IX,Nizhny Novgorod  Internet Exchange,RU,1,1,0
+818,1245,IX.br (PTT.br) Maringá,IX.br (PTT.br) Maringá,BR,41,41,34
+822,8736,Sibir-IX,Krasnoyarsk Internet Exchange,RU,9,9,2
+823,8742,TPIX-TW,Taipei Internet Exchange,TW,84,84,56
+828,8781,RZ-IX,Rzeszowski Punkt Wymiany Ruchu,PL,11,11,1
+829,8808,SLIX - Salt Lake City Internet Exchange,Salt Lake Internet Exchange,US,29,29,26
+832,14750,DE-CIX Mumbai,,IN,442,441,343
+833,6705,TPAIX,Tampa Internet Exchange,US,20,20,15
+842,15578,MLIXP,MegaLink-IXP,BO,5,5,0
+851,14993,ArmIX,Armenian Internet Exchange,AM,16,16,13
+854,9076,HTN-IX,HT Networks Co.  Ltd.,KH,1,1,0
+859,1245,IX.br (PTT.br) Cuiabá,IX.br (PTT.br) Cuiabá,BR,26,26,25
+863,9183,VANIX,Vancouver Internet Exchange,CA,67,66,60
+864,9213,BR-IX,Brno University of Technology,CZ,8,8,7
+866,994,SH-IX,SMARTHUB Internet Exchange,AE,30,30,27
+867,1220,OCIX Frankfurt,OpenCarrier eG Member-IX Frankfurt,DE,3,3,2
+869,9300,Ohio IX,Ohio IX,US,36,36,33
+876,9392,RED-IX,Krasnoyarsk Internet Exchange,RU,12,12,7
+880,752,France-IX Marseille,FranceIX Marseille,FR,103,103,99
+881,9423,Lillix,Northern France and Eurometropolis GIX,FR,25,25,22
+906,20871,HFXIX,Halifax Internet Exchange,CA,18,17,17
+909,8440,BBIX Singapore,BroadBand Internet eXchange Singapore,SG,71,71,69
+916,6718,CitranetIX,Citranet Internet Exchange (CIX),ID,34,34,29
+922,17725,IXP Namibia,Windhoek Internet Exchange Point,NA,5,5,0
+935,2634,AMS-IX BA,AMS-IX Bay Area,US,26,26,23
+938,10007,TahoeIX,Tahoe Internet Exchange,US,11,10,10
+940,10008,TTIX,Trinidad and Tobago Internet Exchange,TT,10,10,0
+944,2634,AMS-IX Chicago,AMS-IX Chicago,US,27,27,23
+948,2,Equinix Osaka,Equinix Internet Exchange Osaka,JP,22,22,21
+954,14386,FL-IX,FL-IX - The Florida Internet Exchange / Community IX - Florida,US,146,146,140
+957,10111,MiamiIX,Miami Internet Exchange,US,5,5,3
+965,13167,MegaIX Singapore,Megaport MegaIX Singapore,SG,37,36,33
+967,10245,DjIX,The Djibouti Internet Exchange,DJ,12,12,9
+969,14127,NAPAfrica IX Durban,NAPAfrica IX Durban,ZA,115,115,97
+971,10586,VIX.VU,Vanuatu Internet Exchange,VU,3,3,3
+976,9636,IX Australia (Canberra ACT),Australian Capital Territory Internet Exchange (ACT-IX),AU,5,5,5
+977,10302,AKL-IX (Auckland NZ),New Zealand Internet Exchange  Auckland,NZ,92,92,75
+983,7264,UNY-IX,Universitas Negeri Yogyakarta Internet Exchange Point,ID,20,20,11
+984,13167,MegaIX Auckland,Megaport MegaIX Auckland,NZ,81,81,65
+985,10417,BDX BTN1,Brighton Internet Exchange,GB,0,0,0
+986,11225,FD-IX - Indianapolis,MidWest-IX / FD-IX Indianapolis,US,41,41,33
+993,10470,PIX Palestine,Palestine Internet Exchange Point,PS,4,4,2
+1002,1187,DE-CIX Richmond,,US,19,19,13
+1006,10602,DET-iX,Detroit Internet Exchange,US,62,62,58
+1007,9949,angonix,Angola Internet Exchange Point,AO,21,20,16
+1009,4385,Tirol-IX,Tirol-IX Internet Exchange,AT,11,11,11
+1013,7848,NOVO NIX,NOVOCOM NIX,BD,9,9,0
+1016,791,LINX Wales,LINX Wales,GB,14,14,13
+1017,10706,BENIN-IX,BENIN-IX,BJ,5,5,0
+1019,10708,AuvernIX,IXP et NAP d’Auvergne et du Massif Central,FR,12,12,12
+1023,10747,CRIX,Costa Rica Internet Exchange,CR,33,33,30
+1025,10774,BKNIX,Bangkok Neutral Internet Exchange,TH,40,40,40
+1026,2,Equinix Melbourne,Equinix Internet Exchange Melbourne,AU,53,53,46
+1028,10812,Nap Peru,Nap Peru,PE,2,2,0
+1032,10776,RINEX,Rwanda Internet Exchange,RW,13,13,10
+1038,11201,NashIX,Nashville Internet Exchange,US,6,6,6
+1040,19338,NormandIX,NormandIX,FR,1,1,1
+1042,10907,NAP.EC - GYE,NAP Ecuador - Guayaquil (managed by AEPROVI),EC,10,10,10
+1046,14924,CGIX,Congo Internet eXchange,CG,2,0,2
+1054,11112,TransIX Network,Trans Hybrid Communication eXchange,ID,1,1,0
+1056,13167,MegaIX Sofia,Megaport MegaIX Sofia (formerly OM-NIX),BG,20,20,16
+1073,6350,SAIX,Salzburg Internet eXchange - SAIX,AT,16,16,15
+1086,8978,MASS-IX,MASS IX  Boston/Massachusetts Internet Exchange,US,62,61,57
+1088,1524,Global-IX,GlobalNet,NL,132,132,63
+1089,3338,T-CIX,T-CIX,BG,13,13,11
+1094,16260,GE-CIX,Global Internet Exchange & Peering Network,CH,0,0,0
+1095,11941,WANXP RIX-2,WANXP Riau Internet Exchange 2,ID,9,9,0
+1105,11831,TunIXP,Tunisia Internet Exchange Point,TN,4,4,2
+1117,7625,CyrusOne IX Sterling,CyrusOne Internet Exchange,US,0,0,0
+1123,19337,IXP-HN,Internet Exchange Point Honduras,HN,4,4,0
+1127,12531,MARTINIX,,MQ,2,2,0
+1131,1187,DE-CIX Palermo,,IT,24,24,23
+1134,12533,Guyanix,,GF,3,3,0
+1142,7625,CyrusOne IX Chicago,CyrusOne Internet Exchange,US,0,0,0
+1146,136,ESPANIX Madrid Upper LAN,Espanix Upper LAN 2,ES,44,44,35
+1149,1187,DE-CIX Marseille,,FR,94,94,92
+1150,1187,DE-CIX Istanbul,,TR,44,44,43
+1151,12885,CentralIX,Central Internet Exchange,DE,3,3,0
+1154,12666,SFO-IX,Milecom LLC  project SFO-IX,RU,20,20,6
+1156,14433,United Peering - UP-IXP,United Peering - free and open peering (UP-IXP),DE,3,3,3
+1160,14653,NIXVAL-ix,Neutral Internet Exchange Valencia,ES,10,10,8
+1168,12779,Kherson Traffic Exchange,Kherson Traffic Exchange,UA,4,4,4
+1169,12754,YEGIX,YEGIX Edmonton Internet Exchange,CA,8,8,5
+1171,10440,KIVIX,Chisinau Internet Exchange,MD,13,13,13
+1172,12935,CHN-IX Beijing,CHN-IX China Beijing,CN,8,8,0
+1174,13167,MegaIX Seattle,Megaport MegaIX Seattle,US,12,12,9
+1175,13167,MegaIX Los Angeles,Megaport MegaIX Los Angeles,US,25,25,24
+1178,13167,MegaIX Ashburn,Megaport MegaIX Ashburn,US,35,35,32
+1180,13167,MegaIX Dallas,Megaport MegaIX Dallas,US,24,24,22
+1183,13008,6NGIX,KISA 6NGIX Center,KR,1,1,0
+1187,8538,SYMC-IX BKK1,SYMC-IX Bangkok,TH,3,3,1
+1188,14038,TC-IX,Telecom Cambodia,KH,0,0,0
+1191,13087,SerinIX IX,SerinIX Internet Exchange,UA,1,1,0
+1201,14913,TIX Tanzania - Arusha (AIXP),Arusha Internet eXchange Point,TZ,8,8,7
+1207,13253,IX-Denver,Interconnection eXchange Denver,US,61,61,58
+1209,13269,CNX,Cambodian Network Exchange,KH,40,40,27
+1210,13310,M-IX,Media-IX,RU,4,4,0
+1212,13363,MGMix Montgomery,Montgomery Internet Exchange,US,20,20,10
+1214,1187,DE-CIX Dusseldorf,,DE,208,205,200
+1228,13079,CDIX,Cyber Data Internet Xchange,ID,124,124,26
+1229,12909,CODIX,CODIX,RU,4,4,0
+1235,13167,MegaIX Perth,Megaport MegaIX Perth,AU,49,49,44
+1242,2469,W-IX,,RU,65,65,37
+1249,1187,DE-CIX Dallas,,US,115,115,109
+1262,679,INEX Cork,,IE,14,14,11
+1276,1245,IX.br (PTT.br) Foz do Iguaçu,IX.br (PTT.br) Foz do Iguaçu,BR,18,18,17
+1277,1187,DE-CIX Madrid,,ES,174,174,146
+1284,12935,CHN-IX Guangzhou,CHN-IX China Guangzhou,CN,1,1,0
+1285,29,SIX Seattle (Jumbo),Seattle Internet Exchange (MTU 9000),US,45,45,45
+1302,14113,IX Liverpool - MICT,IX Liverpool - MICT Data Centre,GB,4,4,4
+1303,14112,CNIX,China Internet Exchange,CN,18,18,6
+1307,13167,MegaIX Toronto,Megaport MegaIX Toronto,CA,9,9,9
+1308,25945,LSIX,LayerSwitch Internet Exchange,NL,62,62,58
+1317,10649,NIXI Kolkata,National Internet eXchange of India,IN,9,9,5
+1320,14267,Hopus,The HOPUS - the routed exchange,FR,35,35,32
+1323,17920,Extreme IX Delhi,ExtremeIX Delhi,IN,158,158,99
+1329,634,Community-IX,Non-commercial Community Exchange,DE,25,25,25
+1332,223,FICIX 1 (Espoo),FICIX 1 Espoo,FI,27,27,24
+1335,14435,MGIX,Madagascar Global Internet eXchange,MG,6,6,3
+1354,14522,Beirut IX,Beirut Internet Exchange - Lebanon,LB,17,17,4
+1375,12935,CHN-IX Shanghai,CHN-IX China Shanghai,CN,0,0,0
+1387,11419,DataLine-IX,,RU,10,10,6
+1418,14855,TIX Tromsø,TIX Tromsø,NO,3,3,3
+1419,14855,SIX Stavanger,SIX Stavanger,NO,8,8,8
+1420,14855,TRDIX Trondheim,TRDIX Trondheim,NO,6,5,6
+1421,25469,BW-IX Karlsruhe,Baden-Württemberg Internet Exchange - Karlsruhe,DE,6,6,6
+1423,14865,WRIX,Wrocław Internet Exchange,PL,17,17,0
+1449,8440,BBIX Hong Kong,BroadBand Internet eXchange Hong Kong,HK,55,54,52
+1464,2,Equinix Helsinki,Equinix Internet Exchange Helsinki,FI,11,11,11
+1468,8440,Asia Smart IX [BBIX Asia],,JP,1,1,1
+1488,7483,Vegas-IX,Vegas-IX,US,5,5,5
+1489,7483,Aloha-IX,Aloha-IX,US,6,6,5
+1490,7483,Richmond-IX,Richmond-IX,US,7,7,7
+1508,15416,MIXP,Mauritius Internet Exchange Point,MU,15,15,13
+1514,14704,PIT Santiago - PIT Chile,PIT Chile Santiago/ IXP Chile Santiago,CL,148,148,116
+1516,15462,IX.LODZ.PL,IX.LODZ.PL - Łódzki Węzeł Telekomunikacyjny,PL,12,12,0
+1519,11225,FD-IX - St. Louis,St. Louis Regional Internet Exchange,US,16,16,12
+1522,15183,IXpy,Punto de Intercambio de Tráfico de Paraguay,PY,22,22,22
+1533,2399,inet2,,RU,4,4,3
+1561,1509,PhOpenIX-Manila,Philippine Open Internet Exchange (Manila),PH,43,43,27
+1574,14913,TIX Tanzania - Mwanza,,TZ,5,5,2
+1577,15910,Kolkata IX,India Internet Foundation,IN,20,20,12
+1582,2763,MegaFon-IX,,RU,6,6,0
+1623,2634,AMS-IX Mumbai,Amsterdam Internet Exchange Mumbai,IN,50,50,28
+1627,17920,Extreme IX Mumbai,ExtremeIX Mumbai,IN,212,212,141
+1628,13167,MegaIX Las Vegas,Megaport MegaIX Las Vegas,US,4,4,4
+1634,16222,SCL-IX Chile,Santiago Internet Exchange,CL,3,3,3
+1658,537,npIX JWL,,NP,12,12,0
+1660,15179,IXP Ecuador - STD,IXP Ecuador - Santo Domingo,EC,2,2,1
+1663,16383,RIX (RYUKYUIX),Ryukyus Internet Exchange,JP,7,7,7
+1668,14386,CIX-ATL,Community IX - Atlanta,US,48,48,46
+1669,16462,BAIKAL-IX,,RU,2,2,0
+1670,16485,BreizhIX,Breizh-IX,FR,14,14,14
+1679,16557,NNENIX,Northern New England Neutral Internet Exchange,US,9,9,8
+1684,1245,IX.br (PTT.br) Aracaju,IX.br (PTT.br) Aracaju,BR,32,32,32
+1689,10649,NIXI Bangalore,,IN,3,3,1
+1690,10649,NIXI Ahmedabad,NIXI Ahmedabad Internet Exchange,IN,0,0,0
+1748,228,MSK-IX Riga,MSK-IX Riga,LV,0,0,0
+1754,17140,MIXP.me,Montenegro Internet eXchange Point,ME,2,2,2
+1771,17299,VNIX-HCM,,VN,2,2,2
+1772,17299,VNIX-HN,,VN,4,4,4
+1773,17299,VNIX-DN,,VN,3,3,3
+1776,17265,GABIX,Gabon Internet eXchange,GA,7,7,5
+1785,17920,Extreme IX Hyderabad,ExtremeIX Hyderabad,IN,16,16,13
+1786,17920,Extreme IX Chennai,ExtremeIX Chennai,IN,85,85,65
+1790,13833,GREX,Grenada Internet Exchange Point,GD,15,15,14
+1812,17513,Asteroid Amsterdam,Asteroid Amsterdam IX,NL,29,29,29
+1816,17524,A.IX,Advanced IX Lebanon,LB,14,14,0
+1829,17566,YXEIX,Saskatoon Internet Exchange Inc,CA,18,18,16
+1833,15179,IXP Ecuador - MEC,IXP Ecuador - Manta,EC,0,0,0
+1836,727,HIX-NZ,Hamilton Internet Exchange,NZ,0,0,0
+1837,727,DPE,Dunedin Peering Exchange,NZ,0,0,0
+1842,17651,Speed-IX,Speed Internet Exchange,NL,200,194,187
+1847,1245,IX.br (PTT.br) Santa Maria,IX.br (PTT.br) Santa Maria,BR,9,9,9
+1861,17546,CN-IX-SH,CN-IX,CN,4,4,0
+1862,17546,CN-IX-BJ,,CN,1,1,0
+1863,17546,CN-IX-GZ,,CN,2,2,0
+1868,12240,STHIX - Gothenburg,,SE,12,12,12
+1869,12240,STHIX - Copenhagen,,DK,22,22,22
+1870,14391,IXPN Abuja,Internet exchange Point of Nigeria  Abuja,NG,7,7,0
+1886,17883,Cnean,,CN,1,1,0
+1896,17803,InteRed Panama,,PA,19,19,19
+1915,14704,PIT Concepcion - PIT Chile,,CL,10,10,0
+1916,14704,PIT Osorno - PIT Chile,,CL,1,1,0
+1917,14704,PIT Temuco - PIT Chile,,CL,5,5,0
+1923,2,Equinix Stockholm,Equinix Internet Exchange Stockholm,SE,21,21,21
+1925,2,Equinix Milan,Equinix Internet Exchange Milan,IT,27,26,27
+1926,2,Equinix Dublin,Equinix Internet Exchange Dublin,IE,17,17,16
+1927,2,Equinix Manchester,Equinix Internet Exchange Manchester,GB,23,22,22
+1933,15421,PCIX,Piacenza Internet Exchange,IT,4,4,1
+1958,18224,MESH-IX,Mesh Internet Exchange,UA,4,4,2
+1977,1718,CLOUD-IX MSK,CLOUD-IX MSK,RU,50,50,27
+1978,1718,CLOUD-IX SPB,,RU,25,25,12
+1980,1718,CLOUD-IX KHA,,UA,4,4,3
+1981,1718,CLOUD-IX KIEV,CLOUD-IX KIEV,UA,10,10,8
+1982,1718,CLOUD-IX EKT,,RU,5,5,3
+1983,1245,IX.br (PTT.br) João Pessoa,IX.br (PTT.br) João Pessoa,BR,23,23,23
+1984,17357,RomandIX,,CH,17,17,16
+1991,14704,PIT Arica - PIT Chile,,CL,8,8,3
+1997,2,Equinix London,Equinix Internet Exchange London,GB,65,65,63
+1998,2,Equinix Frankfurt,Equinix Internet Exchange Frankfurt,DE,82,82,79
+1999,18417,PIT-IX,Pittsburgh Internet Exchange,US,19,19,17
+2004,14033,ANIX,Albanian Neutral Internet eXchange,AL,16,16,8
+2005,18261,BALT-IX,Baltic Internet Exchange,LT,46,46,28
+2013,12004,Community-IX.ch,Community-IX.ch,CH,18,18,18
+2031,2,Equinix Amsterdam,Equinix Internet Exchange Amsterdam,NL,66,66,62
+2032,7483,Sacramento-IX,,US,5,5,5
+2035,18724,Eurasia Peering IX,Eurasia Peering LLC,RU,153,153,70
+2036,10277,MEX-IX,MEX-IX McAllen,US,16,16,14
+2050,18562,GPIEX,Global Peering Managed Services Provider,US,3,3,3
+2051,18820,IF-IX,IVANO-FRANKIVSK INTERNET EXCHANGE,UA,8,8,0
+2062,18786,Bharat IX - Mumbai,Bharat Internet Exchange in Mumbai,IN,9,9,8
+2066,18109,IXP.MX - Mexico City,,MX,11,11,10
+2070,18980,MonctonIX,Moncton Internet Exchange,CA,8,8,8
+2078,1245,IX.br (PTT.br) Teresina,IX.br (PTT.br) Teresina,BR,26,26,26
+2084,19220,LocIX Frankfurt,LocIX Internet Exchange Frankfurt,DE,241,207,240
+2086,1245,IX.br (PTT.br) São Luís,IX.br (PTT.br) São Luís,BR,25,25,23
+2088,23597,PhillyIX,Philadelphia Internet Exchange,US,21,21,21
+2102,19232,MMIX,Myanmar Internet Exchange,MM,18,18,7
+2116,16928,GOREX,Guam Open Research & Education Exchange,GU,1,1,1
+2124,34,CFLIX (Central Florida Internet Exchange),Central Florida Internet Exchange,US,3,3,0
+2130,2,Equinix Madrid,Equinix Internet Exchange Madrid,ES,10,10,10
+2131,2,Equinix Lisbon,Equinix Internet Exchange Lisbon,PT,19,19,18
+2145,17448,KG-IX Bishkek,,KG,9,9,0
+2149,22009,PITER-IX St. Petersburg,PITER-IX SPB,RU,157,157,33
+2163,19672,FCIX,Fremont Cabal Internet Exchange,US,125,124,123
+2167,17920,Extreme IX Kolkata,ExtremeIX Kolkata,IN,15,15,12
+2176,19802,PIT entel,,CL,3,3,3
+2182,2,Equinix Denver,Equinix Internet Exchange Denver,US,4,4,3
+2183,2,Equinix Houston,Equinix Internet Exchange Houston,US,0,0,0
+2186,19922,Baltimore IX,Baltimore Internet Exchange,US,3,3,0
+2195,19960,AMR-IX,AMR-IX,IN,9,9,5
+2207,20021,DV-IX,,RU,0,0,0
+2208,14913,TIX Tanzania - Zanzibar,,TZ,6,6,5
+2210,13245,ANI-IX Delhi,ANI Peering Exchange,IN,28,28,4
+2239,20221,BHNIX,Bosnia and Herzegovina Neutral Internet Exchange,BA,7,7,5
+2245,19876,NIXA,National Internet Exchange of Afghanistan,AF,19,19,0
+2250,16055,KAZ-GOV-IX,Kazakhstan Internet Exchange,KZ,6,6,0
+2251,19691,Remki Internet Exchange (RIX),Remki Internet Exchange (RIX) - Remki IX,IN,1,1,1
+2253,20261,ix.kw,Kuwait Internet Exchange,KW,16,16,13
+2254,19495,LBIX,LebanonIX,LB,0,0,0
+2272,10008,TTIX2,,TT,7,7,4
+2274,24424,EVIX,Experimental Virtual Internet Exchange,US,165,81,155
+2276,19667,IXP.mk,Faculty of Computer Science and Engineering - IXP.mk,MK,7,7,2
+2279,26904,DE-CIX Johor Bahru,,MY,3,3,2
+2286,11225,FD-IX - Ohio,MidWest-IX - Ohio,US,7,7,4
+2289,2,Equinix Bogota,Equinix Internet Exchange Bogota,CO,29,29,27
+2291,1245,IX.br (PTT.br) Maceió,IX.br (PTT.br) Maceió,BR,27,27,27
+2299,20603,SAIX Saudi Arabia,Saudi Arabia Internet Exchange,SA,17,17,17
+2301,16928,MARIIX,Mariana Islands Internet Exchange,GU,8,8,7
+2317,7483,Charlotte-IX,,US,4,4,4
+2318,7483,Dallas-IX,Dallas-IX,US,6,6,6
+2319,7483,Houston-IX,,US,3,3,3
+2320,20705,SIXP Sudan,Sudan Internet Exchange Point,SD,4,4,2
+2332,18772,PNG Neutral IX POM,,PG,11,11,0
+2341,20866,REDIX Chennai,REDIX Chennai,IN,3,3,1
+2343,20868,LL-IX,LL-IX,PL,116,86,109
+2345,20881,GetaFIX Manila,,PH,46,46,35
+2353,22065,PR-IX,Puerto Rico Internet Exchange,PR,18,18,16
+2355,20973,btIX,Bhutan Internet Exchange,BT,12,12,12
+2362,15670,KIXP - Mombasa icolo,,KE,12,12,12
+2365,21034,CHIX-CH,CHIXSWITZERLAND,CH,36,35,36
+2381,12202,WAF-IX Lagos,WAF-IX  Lagos  Nigeria,NG,23,23,18
+2386,1904,GR-IX::Thessaloniki,Greek Internet Exchange - Thessaloniki,GR,19,19,17
+2387,20871,SJIX,Saint John Internet Exchange,CA,3,3,3
+2388,20695,TGIX,Togo Internet Exchange Point,TG,7,7,0
+2402,16698,SPACE-IX,,RU,0,0,0
+2407,7562,MISPA-IXP,MISPA internet exchange point,MN,2,2,0
+2410,21518,SoIXP,Somali Internet Exchange Point,SO,0,0,0
+2414,14391,IXPN Kano,,NG,5,5,1
+2415,14391,IXPN Port Harcourt,Internet Exchange Point of Nigeria  Port Harcourt,NG,0,0,0
+2447,19041,4b42 Internet Exchange Point,4b42 Internet Exchange Point,CH,209,112,204
+2452,24424,UNM-Exch Canada-West,UNMETERED.Exchange,CA,65,56,64
+2454,18878,CSL Thai-IX Malaysia,Thai-IX Malaysia by CS Loxinfo,TH,13,13,12
+2457,15901,SR-IX,,KG,2,2,2
+2467,8440,BBIX Thailand,BBIX (Thailand) Company Limited,TH,17,17,16
+2476,491,JKT-IX,Jakarta Internet Exchange,ID,289,289,133
+2486,21648,CMH-IX,Columbus Internet Exchange,US,8,8,8
+2494,18878,CSL Thai-IX Singapore,Thai-IX Singapore by CS Loxinfo,TH,22,22,21
+2495,18878,CSL Thai-IX Bangkok,Thai-IX Bangkok by CS Loxinfo,TH,19,19,17
+2496,16302,BelgiumIX,Belgium Internet Exchange,BE,26,26,26
+2497,22092,KazNIX,KazNIX Exchange Point,KZ,8,8,8
+2501,20382,LNK-IX,,RO,6,6,6
+2511,20810,MS-IX,Münster Internet Exchange,DE,5,4,5
+2516,473,BDIX,Bangladesh Internet Exchange Trust,BD,63,63,49
+2520,21637,IXP-GUINEE,IXP-GUINEE,GN,3,3,0
+2522,14569,KRIX(sejong),Korea Internet Exchange,KR,9,9,6
+2531,1187,DE-CIX Lisbon,,PT,44,44,43
+2537,20819,STIX,,IT,6,6,6
+2541,9713,CAMIX Douala,Cameroon Internet Exchange Point,CM,7,7,0
+2551,8592,Digital Realty Chicago,,US,9,9,9
+2552,20571,BDIXP,Burundi Internet Exchange Point,BI,10,10,0
+2553,22504,LVIV-IX,Lviv Internet Exchange,UA,10,10,1
+2554,9713,CAMIX Yaounde,Cameroon Internet Exchange Point,CM,4,4,0
+2558,32,NYIIX Philadelphia,New York International Internet eXchange - Philadelphia,US,4,4,4
+2563,22400,EdgeIX - Darwin,,AU,6,6,6
+2564,19739,iX-OKC,Internet Exchange Oklahoma City,US,12,12,8
+2568,14414,TN-IX,TN-IX.net,RU,4,4,2
+2569,138,NL-ix 2,Neutral Internet Exchange 2,NL,8,8,8
+2571,21284,SBIX ZRH,Securebit Internet Exchange Zurich,CH,28,24,26
+2572,8592,Digital Realty Ashburn,Digital Realty Ashburn Internet Exchange,US,7,7,7
+2584,22229,OGIX,Ottawa-Gatineau Internet Exchange,CA,8,8,8
+2585,22760,STLIX,Saint Louis Internet Exchange,US,38,38,38
+2587,14750,DE-CIX Delhi,,IN,79,79,62
+2588,14750,DE-CIX Chennai,,IN,44,44,38
+2589,14750,DE-CIX Kolkata,,IN,13,13,11
+2601,19220,LocIX Netherlands,Local Internet Exchange Netherlands,NL,27,25,27
+2602,22400,EdgeIX - Hobart,,AU,7,7,7
+2611,23108,KM-IX,Khmelnitskiy Internet Exchange Point,UA,3,3,1
+2612,22984,SAT-IX (San Antonio),San Antonio Internet Exchange,US,6,6,5
+2617,23125,Harare IX,Harare Internet eXchange Point,ZW,0,0,0
+2622,15198,IIX-Bali,Bali Internet eXchange,ID,30,30,3
+2624,14913,TIX Tanzania - Dodoma,Dodoma Internet Exchange Point - DIXP,TZ,5,5,2
+2627,2,Equinix Perth,Equinix Internet Exchange Perth,AU,13,13,10
+2628,791,JEDIX,Jeddah Internet Exchange,SA,17,17,14
+2631,23229,Manama IX,,BH,22,22,19
+2633,2,Equinix Barcelona,Equinix Internet Exchange Barcelona,ES,9,8,9
+2641,19381,36C3-YOLOIXP,36c3 YOLOIXP,DE,4,4,3
+2658,22400,EdgeIX - Adelaide,,AU,24,24,21
+2663,23617,Gavlix,,SE,5,5,5
+2665,20064,MLIX,Point d'échange du Mali,ML,2,2,0
+2670,23648,BatamIX Jakarta,Batam Internet Exchange,ID,13,13,7
+2672,18339,DACS-IX East,,US,8,8,8
+2675,23686,VarnaIX,Varna Internet Exchange,BG,7,7,7
+2677,12240,STHIX - Sundsvall,,SE,4,4,4
+2680,23757,Peru IX (PIT Peru sac) - Lima,Peru IX (PIT Peru sac) Lima - Neutral Internet Exchange,PE,56,56,52
+2682,12294,SIXP Gambia,Serekunda Internet Exchange Point,GM,2,2,0
+2685,2,Equinix Seoul,Equinix Internet Exchange Seoul,KR,7,7,7
+2693,4964,UEPG Internet Exchange,UEPG Internet Exchange,BR,11,11,11
+2700,19041,IXP FI HEL,Internet Exchange Point - Helsinki,FI,21,0,21
+2704,19041,IXP UK LON,Internet Exchange Point - London,GB,28,0,28
+2705,19041,IXP NL DRO,Internet Exchange Point Netherlands Dronten,NL,22,0,22
+2706,19041,IXP NUR,,DE,3,0,3
+2713,19614,CAS-IX,Casablanca Internet Exchange Point,MA,5,5,0
+2715,491,MYNAP,Malaysia Network Access Point (MYNAP),MY,4,4,4
+2718,22400,EdgeIX - Perth,,AU,48,48,41
+2722,14612,LUBIX,Lubumbashi internet exchange point,CD,10,10,0
+2726,24273,BrestIX,,FR,2,2,0
+2728,19041,IXP LI VAD,,LI,17,0,17
+2729,14212,BFIX Ouagadougou,Burkina Faso Internet Exchange Point (BFIX) Ouaga,BF,13,13,3
+2730,19220,LocIX Dusseldorf,LocIX Internet Exchange Dusseldorf,DE,85,72,85
+2732,23916,RO-IX,Internet eXchange RO-IX,RO,2,2,1
+2737,17879,CLOUDXCHANGE - CXC,cloudXchange,ID,153,152,83
+2741,23528,QCIX,Quad Cities Internet eXchange,US,50,50,47
+2746,19041,IXP US FRE,,US,24,0,24
+2753,21284,VIXP,Virtual Internet Exchange Point,LI,4,4,3
+2756,22400,EdgeIX - Brisbane,,AU,26,26,25
+2761,22400,EdgeIX - Sydney,,AU,84,84,76
+2762,22400,EdgeIX - Melbourne,,AU,41,41,40
+2766,15198,IIX-Jabar,,ID,24,24,6
+2767,15198,IIX-Lampung,,ID,10,10,0
+2774,19041,IXP SYD,,AU,2,0,2
+2775,24699,NIX-BD,Neutral Internet Exchange Bangladesh,BD,1,1,0
+2776,13848,CSIX,CloudSingularity Internet Exchange,CA,14,14,14
+2783,21966,Gig IX Ashburn,,US,4,4,4
+2784,20885,FURB IX,,BR,8,8,0
+2785,12240,STHIX - Umeå,,SE,3,3,3
+2786,12663,AIX-BD,,BD,35,35,23
+2787,11127,TR-IX,TURKISH Internet eXchange,TR,11,11,11
+2797,10302,CHC-IX (Christchurch NZ),New Zealand Internet Exchange  Christchurch,NZ,18,18,17
+2798,19041,IXP BEA,,CA,0,0,0
+2799,24519,ITI-IX,ITI-IX,UZ,3,3,0
+2801,115,LONAP Multicast,,GB,0,0,0
+2802,4236,MekongIX,,KH,3,3,2
+2804,20737,RO-CIX,,RO,12,12,12
+2812,10649,NIXI Guwahati,,IN,0,0,0
+2815,17513,Asteroid Mombasa,Asteroid Mombasa,KE,22,22,21
+2819,25056,QIX Qatar,Qatar Internet Exchange (QIX),QA,3,3,3
+2822,1245,IX.br (PTT.br) Cascavel,IX.br (PTT.br) Cascavel,BR,23,23,23
+2830,25144,MUS-IX,MIDSOUTH U.S. Internet Exchange,US,11,11,11
+2835,25053,HOUIX,Houston Internet Exchange,US,24,24,23
+2836,23018,SNS-IX,SNS-IX,UZ,17,17,0
+2845,2417,Netnod Stockholm GREEN -- MTU4470,,SE,73,73,70
+2846,2417,Netnod Stockholm BLUE -- MTU1500,,SE,169,169,161
+2847,2417,Netnod Stockholm BLUE -- MTU4470,,SE,74,74,71
+2848,155,NIX.CZ FENIX,,CZ,5,5,5
+2849,1232,GigaPIX - LAN 2,GIGAbit Portuguese Internet eXchange - LAN 2,PT,17,17,16
+2853,223,FICIX 2 (Helsinki) IPv6 MTU 9000,,FI,7,0,7
+2861,288,JINX Voice,,ZA,4,4,0
+2865,2417,Netnod Gothenburg -- MTU4470,,SE,11,11,11
+2868,2417,Netnod Copenhagen BLUE -- MTU9K,,DK,60,60,59
+2869,2417,Netnod Sundsvall -- MTU4470,,SE,9,9,9
+2899,288,CINX Voice,,ZA,0,0,0
+2904,223,FICIX 3 (Oulu) IPv6 MTU 9000,,FI,2,0,2
+2915,7437,GigaNET Odessa,GigaNET Odessa local exchange,UA,12,12,2
+2916,7437,GigaNET Kharkov,GigaNET Kharkov local exchange,UA,7,7,6
+2918,7437,GigaNET Warsaw,GigaNET Warsaw local exchange,PL,0,0,0
+2955,14113,IX Liverpool - Baltic Bubble,IX Liverpool - Baltic Bubble Data Centre,GB,4,4,3
+2956,14113,IX Liverpool Internet of Things LAN,,GB,0,0,0
+2957,14113,IX Liverpool GRX Peering Exchange (5G),,GB,0,0,0
+2963,223,FICIX 1 (Espoo) IPv6 MTU 9000,,FI,5,0,5
+3017,22009,PITER-IX Moscow,PITER-IX Moscow,RU,206,206,40
+3018,22009,PITER-IX Tallinn,PITER-IX Tallin,EE,52,52,0
+3019,22009,PITER-IX Riga,PITER-IX Riga,LV,58,58,0
+3069,25190,ARIX,Amateur Radio Internet Exchange,US,17,17,17
+3072,600,Linxdatacenter-IX,Linxdatacenter Internet Exchange,RU,5,5,0
+3076,23115,MVIX,Master Virtual Internet Exchange,NL,1,1,1
+3079,14788,SUMMIT NIX,,BD,7,7,0
+3081,22155,Statewide NC-IX,North Carolina Internet Exchange,US,4,4,4
+3085,25423,Fiji-IXP,,FJ,4,4,0
+3087,15198,IIX-Jogja,,ID,16,16,0
+3090,25400,SpokaneIX,Spokane Internet Exchange,US,9,9,9
+3091,25427,Navégalo IXPCR,Navégalo IXP Costa Rica,CR,0,0,0
+3093,22923,FSIX Shanghai,Fantasy Sky Shanghai Internet eXchange,CN,2,0,2
+3096,1245,IX.br (PTT.br) Campo Grande,IX.br (PTT.br) Campo Grande,BR,23,23,23
+3097,14913,TIX Tanzania - Mbeya,Mbeya Internet Exchange,TZ,1,1,1
+3098,24546,BFD-IX,BFD-IX,GB,41,29,41
+3105,18339,DACS-IX South,,US,6,6,6
+3106,18339,DACS-IX North,,US,5,5,5
+3117,12956,FEZIX,,MA,3,3,0
+3118,21284,SBIX DUS,Securebit Internet Exchange Dusseldorf,DE,11,10,10
+3122,9191,PIONIER-IX,PIONIER-IX,PL,4,4,4
+3148,20853,HPT1-IX,Hawaii Pacific Teleport IX-1,US,1,1,0
+3149,17673,IXPlay Madrid,,ES,52,52,0
+3156,2386,JTIX,JasTel Internet Exchange,TH,10,10,8
+3157,14702,FSIX,,NO,18,18,18
+3159,2497,SudIX,,FR,1,1,1
+3160,26363,NEO-IX,North East Ohio Internet Exchange,US,6,6,5
+3166,30021,ZXIX Hangzhou (Y),ZX Internet Exchange Hangzhou (Y),CN,21,0,21
+3168,26458,PS-IX Ramallah,State of Palestine Internet Exchange,PS,17,17,17
+3169,13052,ROPN-IX,Romanian Open Internet Exchange,RO,24,20,24
+3170,23644,DCI-IX,DCI Indonesia Internet Exchange,ID,28,28,6
+3175,26462,TOHU IX,,CN,46,0,46
+3179,26147,48 IX,,US,5,5,5
+3182,26040,GTIX,Guatemala Internet Traffic Exchange Point,GT,18,18,12
+3184,12446,SEECIX,the South East Europe Cloud & Interconnection Exchange powered by DE-CIX,GR,16,16,16
+3185,8440,BBIX Los Angeles,BroadBand Internet eXchange Los Angeles,US,20,20,18
+3186,8440,BBIX Dallas,BroadBand Internet eXchange Dallas,US,3,3,3
+3187,8440,BBIX Chicago,BroadBand Internet eXchange Chicago,US,3,3,3
+3188,8440,BBIX Miami,BroadBand Internet eXchange Miami,US,1,1,1
+3189,8440,BBIX London,BroadBand Internet eXchange London,GB,3,3,3
+3190,8440,BBIX Amsterdam,BroadBand Internet eXchange Amsterdam,NL,3,3,3
+3191,8440,BBIX Marseille,BroadBand Internet eXchange Marseille,FR,4,4,4
+3192,26517,ManxIX,,IM,0,0,0
+3195,15749,SpringIX,Springfield Internet eXchange,US,9,9,9
+3203,26582,InterAUS - Sydney IX,InterAUS Sydney: Australia Community Internet Exchange,AU,2,0,2
+3204,26582,InterAUS - Melbourne IX,InterAUS Melbourne: Australia Community Internet Exchange,AU,1,0,1
+3205,26582,InterAUS - Brisbane IX,InterAUS Brisbane: Australia Community Internet Exchange,AU,1,0,1
+3206,26582,InterAUS - Perth IX,InterAUS Perth: Australia Community Internet Exchange,AU,1,0,1
+3207,26582,InterAUS - Canberra IX,InterAUS Canberra: Australia Community Internet Exchange,AU,1,0,1
+3208,26582,InterAUS - Adelaide IX,InterAUS Adelaide: Australia Community Internet Exchange,AU,1,0,1
+3209,26582,InterAUS - Hobart IX,InterAUS Hobart: Australia Community Internet Exchange,AU,1,0,1
+3211,25773,STACIX,Staclar Internet Exchange,DE,22,22,21
+3212,2,Equinix Rio de Janeiro,Equinix Internet Exchange Rio de Janeiro,BR,11,11,10
+3224,26376,BVIX,BVI Internet Exchange,VG,5,5,5
+3226,25443,IX42 LAS,Internet eXchange 42 Las Vegas,US,17,0,17
+3230,22414,IXRR Internet Exchange Roraima,IXRR Internet Exchange Roraima,BR,7,7,6
+3232,26884,OpenSwitch-IX,OpenSwitch-IX India's First IXP to offer tunnels,IN,23,0,23
+3233,21047,MoeIX CSX,Moe Internet Exchange - Changsha,CN,12,0,12
+3237,25443,IX42 SG,Internet eXchange 42 Singapore,SG,6,0,6
+3238,26838,IXP INFOCOM,IXP INFOCOM Costa Rica,CR,1,1,0
+3246,30021,ZXIX Hong Kong (Y),ZX Internet Exchange Hong Kong (Y),HK,34,0,34
+3247,11225,FD-IX - Iowa,Fiber Data Internet Exchange,US,2,2,0
+3261,18109,IXP.MX - Querétaro,,MX,3,3,3
+3264,11225,FD-IX - Texas,Texas-IX,US,5,5,0
+3266,2,Equinix Mexico,Equinix Internet Exchange Mexico,MX,4,4,4
+3278,26198,IXBradford,,GB,9,9,8
+3280,20098,KA-NIX,Karlsruhe Neutral Internet Exchange,DE,7,7,7
+3283,22101,THESS-IX,Thessaloniki - Internet Exchange,GR,13,9,13
+3285,27251,GeekIX Taoyuan (Jumbo),Geek Networks Exchange Taiwan Taoyuan,TW,17,0,17
+3286,21284,SBIX FRE,Securebit Internet Exchange Fremont,US,8,8,8
+3288,1840,Grunix,GrunIX,NL,7,7,5
+3290,3207,MIX-IT Palermo,Milan Internet Exchange,IT,10,10,8
+3299,22009,PITER-IX Helsinki,PITER-IX Helsinki,FI,67,67,0
+3302,24521,PyramIX,Pyramids Internet Exchange,EG,31,1,31
+3303,10774,BKNIX Chiang Mai,BKNIX Chiang Mai,TH,3,3,3
+3312,1273,JumboIX Peru,Jumbo Internet Exchange powered by IPTP Networks,PE,22,22,21
+3321,27682,ICX Delhi,International Cloud Xchange Delhi,IN,8,8,8
+3322,27159,ABQIX,,US,5,5,5
+3329,15198,IIX-Jateng,Jawa Tengah Internet eXchange,ID,6,6,0
+3333,27426,PIT Bolivia,Punto de Intercambio de Tráfico PIT Bolivia - Entidad Civil sin fines de lucro,BO,14,14,14
+3335,2,Equinix Muscat,Equinix Internet Exchange Muscat,OM,6,6,6
+3337,14803,BIX Surabaya,Biznet Internet Exchange,ID,4,4,1
+3338,14803,BIX Malang,Biznet Internet Exchange,ID,2,2,0
+3339,14803,BIX Semarang,Biznet Internet Exchange,ID,0,0,0
+3340,14803,BIX Denpasar 1,Biznet Internet Exchange,ID,4,4,3
+3341,14803,BIX Denpasar 2,Biznet Internet Exchange,ID,0,0,0
+3342,27828,IX-DO,PUNTO DE INTERCAMBIO DE TRAFICO DE INTERNET DE LA REPUBLICA DOMINICANA,DO,0,0,0
+3343,27858,Waterloo Internet Exchange,,CA,1,1,0
+3348,1479,JPNAP Fukuoka,JPNAP Fukuoka,JP,13,13,12
+3352,24783,STUIX,Student & Technology United Internet Exchanges,TW,58,47,57
+3365,23648,BatamIX Batam,Batam Internet Exchange,ID,4,4,4
+3366,27981,Aqaba IX,Aqaba IX,JO,12,12,11
+3373,25688,NCL-IX,Newcastle IX,GB,6,6,6
+3378,1187,DE-CIX Chicago,,US,19,19,19
+3379,20895,PCTA-IX Luzon,,PH,7,7,0
+3384,22662,BéarnIX,,FR,8,8,8
+3387,16953,NCJX-Neutral Connect J-Xchange,,ID,2,2,2
+3393,27961,HamroIX-Amsterdam,Hamro Internet eXchange,NL,13,2,13
+3399,20737,RO-CIX 2,,RO,3,3,3
+3400,28299,OceanIX,OceanIX,DE,1,0,1
+3401,14212,BFIX Bobo-Dioulasso,Burkina Faso Internet Exchange Point (BFIX) Bobo,BF,6,6,0
+3403,14127,NAPAfrica MAPS Johannesburg,MAPS @ NAPAfrica Johannesburg,ZA,15,15,0
+3405,7336,Ruhr-CIX,,DE,7,7,7
+3407,24330,PaducahIX,Paducah Internet Exchange,US,3,3,3
+3408,28299,HSIX-NZ,HackerSpace Networking - Auckland  NZ,NZ,3,0,3
+3409,28299,HSIX-QLD,HackerSpace Networking - Brisbane  QLD,AU,3,0,3
+3410,28299,HSIX-NSW,HackerSpace Networking - Sydney  NSW,AU,3,0,3
+3411,28299,HSIX-VIC,HackerSpace Networking - Melbourne  VIC,AU,3,0,3
+3412,28299,HSIX-WA,HackerSpace Networking - Perth  WA,AU,3,0,3
+3413,28299,HSIX-SA,HackerSpace Networking - Adelaide  SA,AU,4,0,4
+3414,28299,HSIX-APAC,HackerSpace Networking - Oceania,AU,1,0,1
+3416,22009,PITER-IX Kiev,PITER-IX Kiev,UA,62,62,6
+3417,18772,PNG Neutral IX Lae,,PG,3,3,0
+3418,23757,Peru IX (PIT Peru sac) - Arequipa,Peru IX (PIT Peru sac) Arequipa - Neutral Internet Exchange,PE,13,13,13
+3422,26154,kremen-IX,,UA,7,7,2
+3424,23351,IXPMOE-ZUH,IXPMOE Internet Exchange Point,CN,7,0,7
+3428,22412,TRUE-IX,True Internet Corporation Co.  Ltd.,TH,13,13,13
+3430,27961,HamroIX-Rome,,IT,3,1,3
+3436,28608,Ouest.Network,Ouest.Network,FR,3,3,3
+3440,12947,Borneo-IX,,BN,4,4,4
+3445,7483,Raleigh-IX,,US,3,3,3
+3446,1187,DE-CIX Barcelona,,ES,26,26,23
+3447,27251,GeekIX Taoyuan,,TW,0,0,0
+3448,1787,Múli IXP,,IS,2,2,2
+3449,28725,IXSY,Internet Exchange Services Yucatán,MX,5,5,5
+3450,20073,IPNET-IX DELHI,IPNET Peering Exchange,IN,1,1,0
+3463,24957,SP-iXP Mumbai,Smart-Peering Internet eXchange,IN,2,2,0
+3464,25443,IX42 NYC,Internet eXchange 42 New York City,US,0,0,0
+3465,1187,ISTIX,ISTANBUL INTERNET EXCHANGE/DE-CIX Istanbul,TR,19,19,0
+3466,28249,Willamette Internet Exchange,,US,11,11,7
+3467,24902,KLIX,Kloud Technologies Limited NIX,BD,1,1,1
+3471,26384,Aperture-IX,Aperture Internet Exchange,HK,28,23,28
+3472,26904,DE-CIX ASEAN,DE-CIX ASEAN (Singapore  Malaysia  Brunei),SG,55,55,51
+3473,26904,DE-CIX Kuala Lumpur,,MY,21,21,21
+3474,26904,DE-CIX Malaysia,,MY,16,16,14
+3475,28829,VIVA-IX,vivanet Internet Exhange Services,TR,7,7,0
+3476,365,Global Peer Exchange,Global Peer Exchange,US,1,1,0
+3477,28631,DSIX,DreamServer.ro,RO,5,5,5
+3478,27398,BGP.Exchange,,AQ,17,0,17
+3480,17398,BTCL IX,Bangladesh Telecommunications Company Limited (BTCL) IX,BD,10,10,0
+3487,29183,PERM-IX,Perm traffic exchange point,RU,1,1,0
+3495,23249,JinIX,Jinom Internet Exchange (JinIX),ID,3,3,3
+3496,29216,Denver IX,,US,4,4,4
+3512,27971,Frys-IX,The Frisian Internet Exchange,NL,65,64,63
+3513,29375,EmptyEx,EmptyExchange,GT,0,0,0
+3516,15670,KIXP - Nairobi icolo,,KE,0,0,0
+3528,27953,SIIX,Southern Italy Internet Exchange,IT,11,11,11
+3530,28509,SXMIX,,MF,4,4,3
+3532,29593,CNI Jakarta,Cyber Network Indonesia - Internet Exchange,ID,12,12,0
+3534,14101,Tehran IX,,IR,1,1,0
+3540,27398,OPTIX,Open Peering & Transit Internet Exchange,US,15,0,15
+3541,1273,JumboIX Cyprus,Jumbo Internet Exchange powered by IPTP Networks,CY,4,4,2
+3543,27099,IXPSU Hangzhou,Internet Exchange Point SU Hangzhou by HUIZE LTD,CN,20,0,20
+3548,20422,India Internet Exchange,India Internet Exchange,IN,7,7,0
+3553,17295,IXP APROSVA,APROSVA-IX-MJC,EC,2,2,0
+3557,23757,Peru IX (PIT Peru sac) - Trujillo,,PE,4,4,4
+3558,20881,GetaFIX Cebu,,PH,4,4,4
+3560,15749,DesMoinesIX,DesMoines Internet eXchange,US,4,4,2
+3561,27228,Douala-IX,Douala-IX,CM,5,5,5
+3562,29911,1-IX Kyiv,1-IX Internet Exchange,UA,51,51,40
+3565,15670,KIXP - Nairobi PAIX,,KE,2,2,0
+3568,10302,WLG-IX (Wellington NZ),,NZ,15,15,15
+3570,7476,Free-IX,,CH,16,16,16
+3572,6500,SaarCix,,DE,1,1,1
+3573,9553,FMIX,Fargo-Moorhead Internet Exchange,US,4,4,4
+3574,29004,Baoshuo Internet Exchange,Baoshuo Education and Research Internet Exchange,CN,2,0,2
+3582,15198,IIX-Sumut,,ID,2,2,0
+3589,656,GIX Cebu,Globe Internet Exchange Cebu,PH,0,0,0
+3594,16815,EPIX.Poznan,,PL,8,8,6
+3603,30021,ZXIX Wuhan (L),ZX Internet Exchange Wuhan (L),CN,16,0,16
+3607,26319,SONIX Stockholm,Sweden Open Network Internet eXchange,SE,15,15,15
+3612,18971,IX-LGS,,BR,3,0,3
+3616,1245,IX.br (PTT.br) Boa Vista,IX.br (PTT.br) Boa Vista,BR,10,10,10
+3626,30440,IXSal,IXSal (Punto de Intercambio de Tráfico de Internet de El Salvador),SV,0,0,0
+3633,14612,GOMIX,Goma Exchange Point,CD,7,7,0
+3634,30362,Lambda-IX,Lambda Internet Exchange,US,21,21,21
+3646,13895,IFXVE - Lebrun,,VE,0,0,0
+3650,30540,FNIX,First Nations Internet Exchange,CA,3,3,3
+3654,29885,NNIX,,CN,10,10,0
+3655,14573,VOLGA-IX,,RU,2,2,0
+3659,22736,GIBIRIX,GIBIR Internet Exchange,TR,14,14,14
+3671,29199,NCIX,neuCentrIX - Bandung,ID,8,8,0
+3674,30927,IXP.ge,,GE,9,9,6
+3675,14169,Insta-IX Delhi,,IN,9,9,0
+3680,1245,IX.br (PTT.br) Palmas,IX.br (PTT.br) Palmas,BR,9,9,9
+3681,29760,RUDAKI-IX,RUDAKI INTERNET EXCHANGE,UA,8,3,8
+3682,20074,SURAJ IX,Suraj Peering Exchange,IN,1,1,0
+3685,30691,FREMIX,Fremont Metro Internet Exchange,US,8,7,8
+3696,27682,ICX Dubai,,AE,1,0,1
+3697,27682,ICX Mumbai,,IN,0,0,0
+3702,1901,SOLIX MTU4470,Stockholm Open Local Internet Exchange MTU4470,SE,17,17,17
+3708,31608,X3M-IX,X3M Infra Pvt Ltd,IN,4,4,0
+3709,30867,PoIX,PoIX,SK,2,2,1
+3712,2417,Netnod Helsinki BLUE -- MTU9K,,FI,7,7,7
+3713,2417,Netnod Helsinki GREEN -- MTU9K,,FI,7,7,7
+3717,31580,PIT Colombia - Medellin,,CO,0,0,0
+3720,19178,CAN'L IX,CAN'L IXP Services,NC,6,6,5
+3721,5600,JPIX FUKUOKA,Japan Internet Exchange Fukuoka,JP,4,4,4
+3722,8440,BBIX Fukuoka,BroadBand Internet eXchange Fukuoka,JP,6,6,5
+3726,27682,ICX Queretaro,,MX,3,0,3
+3727,27682,ICX Muscat,,OM,1,0,1
+3728,27682,ICX Seoul,,KR,0,0,0
+3729,27682,ICX Taipei,,TW,0,0,0
+3730,3207,MIX-IT Bologna,Milan Internet Exchange,IT,7,7,6
+3731,27682,ICX Vienna,,AT,0,0,0
+3732,24396,RapidIX LON1,Rapid Internet Exchange,GB,18,18,18
+3733,31674,CNIXP,,CN,2,2,1
+3734,17513,Asteroid Nairobi,,KE,3,3,3
+3735,12191,PhIX,,PH,3,3,1
+3737,22009,PITER-IX Rostov,,RU,2,2,0
+3739,22009,PITER-IX Frankfurt,,DE,20,20,0
+3743,31707,PKIX Lahore,Pakistan Internet Exchange Lahore,PK,1,1,0
+3745,26319,SONIX Gothenburg,Sweden Open Network Internet eXchange,SE,3,3,3
+3750,1214,GLV-IX,Government of Latvia Internet Exchange,LV,2,2,2
+3751,13100,IIX Estonia,,EE,5,5,4
+3756,20785,FogIXP,Fog Internet Exchange Point,CH,99,79,99
+3761,7483,Norfolk-IX,,US,3,3,3
+3768,27682,ICX Santiago,,CL,1,0,1
+3769,31461,Skywolf IX US,Skywolf Internet Exchange United States,US,8,8,8
+3774,2634,AMS-IX Kolkata,Amsterdam Internet Exchange Kolkata,IN,2,2,2
+3775,1187,DE-CIX Phoenix,,US,7,7,7
+3777,24249,RV-IX,,UA,2,2,2
+3781,13998,KM-IX UA,,UA,0,0,0
+3782,2136,Namex Bari IXP,,IT,13,13,11
+3785,26067,Dartpoints Bridge-IX Columbia,,US,0,0,0
+3786,26067,Dartpoints Bridge-IX Dublin,,US,0,0,0
+3787,26067,Dartpoints Bridge-IX North Liberty,,US,0,0,0
+3788,14444,AR-IX Cabase,AR-IX Cabase IXP Nacional,AR,345,345,221
+3789,21927,ERA-IX Amsterdam,ERA-IX Amsterdam,NL,25,25,24
+3791,32153,Filanco-IX,,UA,3,3,2
+3792,31966,KSKB-IX,,TW,37,0,37
+3794,18772,PNG Neutral IX Hagen,,PG,2,2,0
+3795,17673,IXPlay Paris,,FR,3,3,0
+3797,17673,IXPlay Global Peers,,ES,0,0,0
+3800,2634,AMS-IX Singapore,Amsterdam Internet Exchange Singapore,SG,3,3,3
+3807,21047,MoeIX FSN,Moe Internet Exchange - Falkenstein,DE,12,5,12
+3812,7766,EG-IX,,EG,2,2,2
+3813,17920,Extreme IX Bangalore,ExtremeIX Bangalore,IN,8,8,7
+3814,2,Equinix Montreal,Equinix Internet Exchange Montreal,CA,2,2,2
+3816,27398,BGP.Exchange - Melbourne,,AU,2,0,2
+3817,27398,BGP.Exchange - Adelaide,,AU,3,0,3
+3818,27398,BGP.Exchange - Los Angles,,US,4,0,4
+3820,27398,BGP.Exchange - Singapore,,SG,5,0,5
+3821,27398,BGP.Exchange - London,,GB,8,0,8
+3822,27398,BGP.Exchange - Amsterdam,,NL,4,0,4
+3823,27398,BGP.Exchange - Sydney,,AU,5,0,5
+3824,27398,BGP.Exchange - Rome,,IT,5,0,5
+3825,27398,BGP.Exchange - Hong Kong,,CN,5,0,5
+3826,27398,BGP.Exchange - Moscow,,RU,3,0,3
+3827,27398,BGP.Exchange - Auckland,,NZ,3,0,3
+3828,27398,BGP.Exchange - Fremont,,US,4,0,4
+3829,27398,BGP.Exchange - Frankfurt,,DE,11,0,11
+3830,27398,BGP.Exchange - Zurich,,CH,5,0,5
+3831,27398,BGP.Exchange - Warsaw,,PL,4,0,4
+3832,27398,BGP.Exchange - Barcelona,,ES,3,0,3
+3833,27398,BGP.Exchange - Oslo,,NO,3,0,3
+3834,27398,BGP.Exchange - Houston,,US,3,0,3
+3835,27398,BGP.Exchange - Kansas,,US,3,0,3
+3836,27398,BGP.Exchange - Toronto,,CA,4,0,4
+3837,27398,BGP.Exchange - Sofia,,BG,4,0,4
+3838,27398,BGP.Exchange - Vilnius,,LT,3,0,3
+3839,27398,BGP.Exchange - Atlanta,,US,4,0,4
+3840,27398,BGP.Exchange - Tel-Aviv,,IL,2,0,2
+3841,27398,BGP.Exchange - Mumbai,,IN,4,0,4
+3842,27398,BGP.Exchange - Valdivia,,CL,4,0,4
+3843,27398,BGP.Exchange - Johannesburg,,ZA,3,0,3
+3844,27398,BGP.Exchange - Dusseldorf,,DE,12,0,12
+3845,27398,BGP.Exchange - Jacksonville,,US,3,0,3
+3846,27398,BGP.Exchange - Las Vegas,,US,4,0,4
+3847,27398,BGP.Exchange - Seattle,,US,3,0,3
+3848,27398,BGP.Exchange - New York,,US,2,0,2
+3849,27398,BGP.Exchange - Brisbane,,AU,3,0,3
+3850,27398,BGP.Exchange - Perth,,AU,3,0,3
+3851,27398,BGP.Exchange - Lagos,,NG,3,0,3
+3853,32394,SUR-IX,Suriname Internet Exchange,SR,6,6,6
+3855,32021,SKNIX,St.Kitts & Nevis Internet Exchange,KN,5,5,5
+3868,7437,GigaNET Zaporizhia,,UA,0,0,0
+3871,7437,GigaNET Lviv,,UA,3,3,0
+3872,32544,SBH-IX,,BL,5,5,5
+3877,21284,SBIX LON,Securebit Internet Exchange London,GB,2,0,2
+3880,31580,PIT Colombia - Bogota,,CO,3,3,3
+3884,14127,NAPAfrica MAPS Cape Town,,ZA,4,4,0
+3890,22505,SJ-CIX São João,,BR,6,6,6
+3891,22414,IXRR Internet Exchange Amazonas,IXRR Internet Exchange Amazonas,BR,1,0,1
+3893,25661,DANIX,,DM,0,0,0
+3898,7483,Bahamas-IX,,BS,0,0,0
+3899,7483,Santa Clara-IX,,US,0,0,0
+3900,7483,Memphis-IX,,US,0,0,0
+3903,32448,ISPAB-NIX,Bangladesh Internet Service Provider Internet Exchange Trust,BD,22,22,19
+3904,31725,BertuahIX,Bertuah Internet Exchange,ID,11,11,10
+3907,27398,BGP.Exchange - Bangalore,,IN,0,0,0
+3908,27398,BGP.Exchange - Montreal,,CA,0,0,0
+3909,27398,BGP.Exchange - Jersey City,,US,0,0,0
+3910,27398,BGP.Exchange - Seoul,,KR,4,0,4
+3911,27398,BGP.Exchange - Tokyo,,JP,0,0,0
+3912,27398,BGP.Exchange - Berlin,,DE,0,0,0
+3913,27398,BGP.Exchange - Paris,,FR,0,0,0
+3914,27398,BGP.Exchange - Cape Town,,ZA,0,0,0
+3915,27398,BGP.Exchange - Sao Paulo,,BR,0,0,0
+3916,27398,BGP.Exchange - Vancouver,,CA,0,0,0
+3917,27398,BGP.Exchange - Brussels,,BE,0,0,0
+3918,27398,BGP.Exchange - Shanghai,,CN,0,0,0
+3919,27398,BGP.Exchange - Bucharest,,RO,0,0,0
+3920,27398,BGP.Exchange - Madrid,,ES,0,0,0
+3921,27398,BGP.Exchange - Riga,,LV,0,0,0
+3922,27398,BGP.Exchange - Chicago,,US,0,0,0
+3923,27398,BGP.Exchange - Miami,,US,0,0,0
+3924,27398,BGP.Exchange - Cairo,,EG,1,0,1
+3925,27398,BGP.Exchange - Kyiv,,UA,2,0,2
+3926,27398,BGP.Exchange - Riyadh,,SA,1,0,1
+3927,27398,BGP.Exchange - Manila,,PH,0,0,0
+3928,27398,BGP.Exchange - Bangkok,,TH,1,0,1
+3929,27398,BGP.Exchange - Dhaka,,BD,1,0,1
+3930,27398,BGP.Exchange - Bogata,,CO,1,0,1
+3931,27398,BGP.Exchange - Buenos Aires,,AR,1,0,1
+3932,27398,BGP.Exchange - Fortaleza,,BR,1,0,1
+3933,27398,BGP.Exchange - Rio de Janeiro,,BR,2,0,2
+3934,27398,BGP.Exchange - Lima,,PE,1,0,1
+3935,27398,BGP.Exchange - Mexico City,,MX,0,0,0
+3936,27398,BGP.Exchange - Panama City,,PA,1,0,1
+3937,27398,BGP.Exchange - Santiago,,CL,0,0,0
+3938,27398,BGP.Exchange - Quito,,EC,0,0,0
+3939,27398,BGP.Exchange - Athens,,GR,0,0,0
+3940,27398,BGP.Exchange - Accra,,GH,1,0,1
+3941,32956,Banyumas Internet Exchange,Banyumas Internet Exchange,ID,4,4,4
+3946,33030,SCAX,The South Coast Access Exchange,US,2,2,2
+3952,3213,Matrix Internet Exchange (MIX),Matrix Internet Exchange (MIX),ID,1,1,0
+3958,29911,1-IX Warsaw,1-IX Internet Exchange Warsaw,PL,2,2,2
+3962,31580,PIT Colombia - Barranquilla,,CO,0,0,0
+3968,19507,Grunn-IX,,NL,1,1,1
+3970,26091,Super Internet eXchange (SIX),Super Internet eXchange,ID,3,3,0
+3971,7483,Tallahassee-IX,,US,0,0,0
+3972,7483,New Orleans-IX,,US,0,0,0
+3973,7483,Huntsville-IX,,US,0,0,0
+3974,7483,San Diego-IX,,US,0,0,0
+3975,7483,Tucson-IX,,US,0,0,0
+3976,7483,Music-City-IX (Nashville),,US,0,0,0
+3977,7483,Madison-IX,,US,0,0,0
+3978,7483,Minneapolis-IX,,US,0,0,0
+3979,7483,Gator-IX,,US,0,0,0
+3980,7483,Jacksonville-IX,,US,0,0,0
+3986,29487,IXP-PR,,PR,2,2,2
+3987,33038,MVIXP,Maldives Internet Exchange,MV,6,6,6
+3990,33369,InterIX,InterIX Internet Exchange Amsterdam,NL,4,3,4
+3991,31528,EO-IX,ELECTRIC OCEAN INTERNET EXCHANGE,US,3,3,3
+3995,33411,Mountain West Internet Exchange,Mountain West Internet Exchange,US,0,0,0
+3997,23757,Peru IX (PIT Peru sac) - Chiclayo,,PE,1,0,1
+3998,23757,Peru IX (PIT Peru sac) - Cuzco,,PE,1,0,1

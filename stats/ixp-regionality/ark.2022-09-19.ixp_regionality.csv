@@ -1,0 +1,214 @@
+ix_id,scopes,regionality,cc,name,name_long
+1,749,0.08811748998664887,US,Equinix Ashburn,Equinix Internet Exchange Ashburn
+2,112,0.33035714285714285,US,Equinix Chicago,Equinix Internet Exchange Chicago
+3,1,0.0,US,Equinix Dallas,Equinix Internet Exchange Dallas
+4,94,0.0851063829787234,US,Equinix Los Angeles,Equinix Internet Exchange Los Angeles
+5,35,0.3142857142857143,US,Equinix San Jose,Equinix Internet Exchange San Jose (Bay Area)
+7,24,0.08333333333333333,US,Equinix Palo Alto,Equinix Internet Exchange Palo Alto
+12,7,0.2857142857142857,US,Equinix New York,Equinix Internet Exchange New York
+13,34,0.7352941176470589,US,SIX Seattle,Seattle Internet Exchange (MTU 1500)
+14,22,0.7272727272727273,US,NYIIX New York,New York International Internet eXchange
+17,25,0.04,US,Equinix Miami,Equinix Internet Exchange Miami
+18,854,0.15339578454332553,GB,LINX LON1,London Internet Exchange Ltd.
+21,1,1.0,AU,IX Australia (Perth WA),West Australian Internet Exchange (WAIX)
+23,1,1.0,US,NYIIX Los Angeles,New York International Internet eXchange - Los Angeles
+24,23,0.5652173913043478,CA,TorIX,Toronto Internet Exchange Community
+26,1185,0.070042194092827,NL,AMS-IX,Amsterdam Internet Exchange
+29,1,1.0,CH,Equinix Zurich,Equinix Internet Exchange Zurich
+30,3,0.6666666666666666,JP,JPIX TOKYO,Japan Internet Exchange Tokyo
+31,2053,0.06819288845591817,DE,DE-CIX Frankfurt,
+33,2,0.5,CH,CIXP,CERN Internet eXchange Point
+35,6,1.0,IT,MIX-IT,Milan Internet eXchange
+42,37,0.3783783783783784,HK,HKIX,Hong Kong Internet Exchange
+43,1,1.0,TW,TWIX,Taiwan Internet Exchange
+48,3,0.6666666666666666,IE,INEX LAN1,Internet Neutral Exchange Association CLG
+50,23,0.2608695652173913,AT,VIX,Vienna Internet Exchange
+53,3,0.3333333333333333,GB,LONAP,London Access Point
+55,16,0.125,HU,BiX,Budapest Internet eXchange
+59,1,1.0,BE,BNIX,Belgian National Internet eXchange
+60,15,0.9333333333333333,CH,SwissIX,SwissIX Internet Exchange
+63,3,1.0,ES,ESPANIX Madrid Lower LAN,Espanix Lower LAN 2
+64,31,0.16129032258064516,NL,NL-ix,Neutral Internet Exchange
+69,2,1.0,FR,LyonIX,Lyonix  the Lyon IX
+70,2,1.0,SE,Netnod Stockholm GREEN -- MTU1500,Netnod AB
+71,8,0.75,CZ,NIX.CZ,Neutral Internet Exchange in the Czech Republic
+82,116,0.08620689655172414,US,Pacific Wave,Pacific Wave Exchange in LA  Sunnyvale and Seattle
+84,2,1.0,SK,SIX.SK,Slovak Internet eXchange
+89,1,1.0,US,MadIX,Madison Internet Exchange
+91,1,1.0,DE,ECIX-DUS,European Commercial Internet Exchange Duesseldorf
+92,3,0.3333333333333333,JP,DIX-IE,Distributed IX in EDO (former NSPIXP2)
+93,2,1.0,SG,SOX,Singapore Open Exchange
+94,44,0.09090909090909091,AU,Equinix Sydney,Equinix Internet Exchange Sydney
+95,1,1.0,JP,JPNAP Tokyo,JPNAP Tokyo
+100,8,0.875,RU,MSK-IX Moscow,MSK-IX Moscow
+115,2,1.0,IT,TOP-IX,Consorzio Top-IX
+119,15,0.8,BR,Equinix São Paulo,Equinix Internet Exchange Sao Paulo
+121,1,0.0,IT,Namex Rome IXP,Nautilus Mediterranean Exchange Point
+123,4,0.75,DE,KleyReX,KleyReX Internet Exchange
+125,4,0.5,HK,Equinix Hong Kong,Equinix Internet Exchange Hong Kong
+126,1,1.0,JP,BBIX Tokyo,BroadBand Internet eXchange Tokyo
+128,1,0.0,SE,SOLIX MTU1500,Stockholm Open Local Internet Exchange MTU1500
+142,141,0.11347517730496454,US,Any2West,CoreSite - Any2West
+158,37,0.0,SG,Equinix Singapore,Equinix Internet Exchange Singapore
+167,1,0.0,JP,Equinix Tokyo,Equinix Internet Exchange Tokyo
+171,215,0.8976744186046511,BR,IX.br (PTT.br) São Paulo,IX.br (PTT.br) São Paulo
+172,1,0.0,SE,STHIX - Stockholm,Stockholm Internet eXchange
+173,1,1.0,BR,IX.br (PTT.br) Porto Alegre,IX.br (PTT.br) Porto Alegre
+177,18,1.0,BR,IX.br (PTT.br) Rio de Janeiro,IX.br (PTT.br) Rio de Janeiro
+184,4,1.0,UA,UA-IX,Ukrainian Internet Exchange
+198,1,1.0,IN,NIXI Delhi,National Internet eXchange of India
+210,3,1.0,ID,IIX-Jakarta,Indonesia Internet Exchange
+212,1,1.0,DE,Stuttgart-IX,Stuttgarter Internet eXchange  Stuttgart-IX
+224,13,1.0,IN,NIXI Mumbai,National Internet eXchange of India
+235,6,1.0,IN,NIXI Chennai,National Internet eXchange of India
+236,2,0.5,KE,KIXP - Nairobi,Kenya Internet Exchange Point - Nairobi
+239,1,1.0,US,ChIX,Chicago Internet Exchange
+240,4,1.0,IT,MINAP Milan,Milan Neutral Access Point
+248,1,1.0,DE,DE-CIX Munich,
+249,1,1.0,US,KCIX,Kansas City Internet Exchange
+250,7,0.5714285714285714,MY,MyIX,Malaysia Internet Exchange
+252,3,0.6666666666666666,CO,NAP Colombia,NAP Colombia
+254,2,1.0,US,Any2Denver,CoreSite - Any2Denver
+255,3,1.0,FR,Equinix Paris,Equinix Internet Exchange Paris
+264,4,1.0,PL,Equinix Warsaw,Equinix Internet Exchange Warsaw
+267,1,0.0,US,DRF IX,DRFortress Exchange
+270,4,0.75,RO,InterLAN,InterLAN Internet Exchange Romania
+291,1,1.0,DE,ECIX-HAM,European Commercial Internet Exchange Hamburg
+321,6,0.0,GB,LINX LON2,London Internet Exchange Ltd.
+325,2,0.5,US,Digital Realty New York,Digital Realty New York Internet Exchange
+326,2,1.0,BG,B-IX,Balkan Internet Exchange
+327,3,1.0,UA,DTEL-IX,Digital Telecom Internet Exchange
+331,2,1.0,BG,BIX.BG,BIX.BG - Bulgarian Internet eXchange
+350,1,1.0,RU,MSK-IX Ekaterinburg,MSK-IX Ekaterinburg (former EKT-IX)
+355,40,0.35,CA,QIX,Quebec Internet eXchange (QIX)
+358,5,0.0,NL,DATAIX,Global Network Managment Ltd
+359,21,0.47619047619047616,FR,France-IX Paris,FranceIX Paris
+364,3,1.0,LV,SMILE-IXP,Santa Monica Internet Local Exchange
+372,2,0.5,RO,Balcan-IX,BALCAN-IX
+375,4,1.0,ID,OpenIXP / NiCE,National Inter Connection Exchange (NiCE)
+424,3,1.0,RS,SOX Serbia,Serbian Open eXchange
+429,7,0.14285714285714285,SG,SGIX,Singapore Internet Exchange
+446,7,1.0,US,MICE,Midwest Internet Cooperative Exchange
+474,4,1.0,PL,EPIX.Warszawa-KIX,EPIX
+482,5,1.0,PL,TPIX PL,TPIX
+488,2,1.0,NG,IXPN Lagos,Internet Exchange Point of Nigeria
+491,3,1.0,PL,EPIX.Katowice,Stowarzyszenie na Rzecz Rozwoju Spoleczenstwa Informacyjnego e-Poludnie
+513,1,1.0,AU,IX Australia (Melbourne VIC),Victorian Internet Exchange (VIC-IX)
+514,1,1.0,US,COIX,Central Oregon Internet eXchange
+565,1,1.0,US,Boston Internet Exchange,Boston Internet Exchange
+583,1,1.0,GB,LINX Manchester,LINX Manchester
+592,14,0.7857142857142857,ZA,NAPAfrica IX Johannesburg,NAPAfrica IX Johannesburg
+602,1,1.0,JP,Echigo-IX,Echigo Internet Exchange
+635,3,1.0,RU,OMSK-IX,Omsk Internet Exchange
+639,1,1.0,CA,YYCIX,YYCIX Calgary Internet Exchange
+655,8,1.0,UA,GigaNET Kyiv,Giganet Internet exchange network
+676,1,0.0,DE,ECIX-FRA,European Commercial Internet Exchange Frankfurt
+694,1,1.0,GH,GIXA,Ghana Internet Exchange Association
+699,164,0.054878048780487805,BG,NetIX,NetIX Communications Ltd.
+710,10,0.9,BR,IX.br (PTT.br) Fortaleza,IX.br (PTT.br) Fortaleza
+713,5,0.6,CZ,Peering.cz,Peering.cz eXchange
+716,13,0.6153846153846154,AU,IX Australia (Sydney NSW),New South Wales Internet Exchange (NSW-IX)
+780,9,0.3333333333333333,AU,MegaIX Sydney,Megaport MegaIX Sydney
+781,1,1.0,AU,MegaIX Brisbane,Megaport MegaIX Brisbane
+804,21,0.2857142857142857,US,DE-CIX New York,
+823,1,1.0,TW,TPIX-TW,Taipei Internet Exchange
+832,6,1.0,IN,DE-CIX Mumbai,
+833,1,1.0,US,TPAIX,Tampa Internet Exchange
+863,1,1.0,CA,VANIX,Vancouver Internet Exchange
+864,3,1.0,CZ,BR-IX,Brno University of Technology
+935,4,1.0,US,AMS-IX BA,AMS-IX Bay Area
+954,13,0.38461538461538464,US,FL-IX,FL-IX - The Florida Internet Exchange / Community IX - Florida
+969,1,1.0,ZA,NAPAfrica IX Durban,NAPAfrica IX Durban
+977,2,1.0,NZ,AKL-IX (Auckland NZ),New Zealand Internet Exchange  Auckland
+983,1,1.0,ID,UNY-IX,Universitas Negeri Yogyakarta Internet Exchange Point
+993,1,1.0,PS,PIX Palestine,Palestine Internet Exchange Point
+1002,1,1.0,US,DE-CIX Richmond,
+1006,4,0.75,US,DET-iX,Detroit Internet Exchange
+1019,1,1.0,FR,AuvernIX,IXP et NAP d’Auvergne et du Massif Central
+1023,1,1.0,CR,CRIX,Costa Rica Internet Exchange
+1025,3,1.0,TH,BKNIX,Bangkok Neutral Internet Exchange
+1028,5,0.4,PE,Nap Peru,Nap Peru
+1088,6,0.16666666666666666,NL,Global-IX,GlobalNet
+1146,1,1.0,ES,ESPANIX Madrid Upper LAN,Espanix Upper LAN 2
+1150,1,0.0,TR,DE-CIX Istanbul,
+1151,1,1.0,DE,CentralIX,Central Internet Exchange
+1154,2,1.0,RU,SFO-IX,Milecom LLC  project SFO-IX
+1178,9,0.0,US,MegaIX Ashburn,Megaport MegaIX Ashburn
+1180,1,1.0,US,MegaIX Dallas,Megaport MegaIX Dallas
+1207,2,1.0,US,IX-Denver,Interconnection eXchange Denver
+1209,2,1.0,KH,CNX,Cambodian Network Exchange
+1210,1,1.0,RU,M-IX,Media-IX
+1212,1,1.0,US,MGMix Montgomery,Montgomery Internet Exchange
+1214,4,0.5,DE,DE-CIX Dusseldorf,
+1242,4,0.5,RU,W-IX,
+1249,2,1.0,US,DE-CIX Dallas,
+1262,2,0.5,IE,INEX Cork,
+1277,5,0.6,ES,DE-CIX Madrid,
+1308,1,1.0,NL,LSIX,LayerSwitch Internet Exchange
+1320,6,0.5,FR,Hopus,The HOPUS - the routed exchange
+1323,3,1.0,IN,Extreme IX Delhi,ExtremeIX Delhi
+1329,8,0.75,DE,Community-IX,Non-commercial Community Exchange
+1421,1,1.0,DE,BW-IX Karlsruhe,Baden-Württemberg Internet Exchange - Karlsruhe
+1423,1,1.0,PL,WRIX,Wrocław Internet Exchange
+1508,1,1.0,MU,MIXP,Mauritius Internet Exchange Point
+1514,9,1.0,CL,PIT Santiago - PIT Chile,PIT Chile Santiago/ IXP Chile Santiago
+1533,131,0.8854961832061069,RU,inet2,
+1561,8,1.0,PH,PhOpenIX-Manila,Philippine Open Internet Exchange (Manila)
+1627,2,1.0,IN,Extreme IX Mumbai,ExtremeIX Mumbai
+1663,2,1.0,JP,RIX (RYUKYUIX),Ryukyus Internet Exchange
+1679,2,1.0,US,NNENIX,Northern New England Neutral Internet Exchange
+1684,1,1.0,BR,IX.br (PTT.br) Aracaju,IX.br (PTT.br) Aracaju
+1771,2,1.0,VN,VNIX-HCM,
+1772,2,1.0,VN,VNIX-HN,
+1790,1,1.0,GD,GREX,Grenada Internet Exchange Point
+1842,3,0.3333333333333333,NL,Speed-IX,Speed Internet Exchange
+1977,176,0.8238636363636364,RU,CLOUD-IX MSK,CLOUD-IX MSK
+1978,44,0.8636363636363636,RU,CLOUD-IX SPB,
+1981,1,1.0,UA,CLOUD-IX KIEV,CLOUD-IX KIEV
+1982,2,1.0,RU,CLOUD-IX EKT,
+1997,2,0.0,GB,Equinix London,Equinix Internet Exchange London
+2004,1,1.0,AL,ANIX,Albanian Neutral Internet eXchange
+2013,4,1.0,CH,Community-IX.ch,Community-IX.ch
+2035,1,1.0,RU,Eurasia Peering IX,Eurasia Peering LLC
+2050,1,1.0,US,GPIEX,Global Peering Managed Services Provider
+2084,4,0.25,DE,LocIX Frankfurt,LocIX Internet Exchange Frankfurt
+2124,1,1.0,US,CFLIX (Central Florida Internet Exchange),Central Florida Internet Exchange
+2149,1,1.0,RU,PITER-IX St. Petersburg,PITER-IX SPB
+2163,2,0.5,US,FCIX,Fremont Cabal Internet Exchange
+2250,1,1.0,KZ,KAZ-GOV-IX,Kazakhstan Internet Exchange
+2289,1,0.0,CO,Equinix Bogota,Equinix Internet Exchange Bogota
+2299,2,1.0,SA,SAIX Saudi Arabia,Saudi Arabia Internet Exchange
+2353,1,1.0,PR,PR-IX,Puerto Rico Internet Exchange
+2365,1,1.0,CH,CHIX-CH,CHIXSWITZERLAND
+2452,1,0.0,CA,UNM-Exch Canada-West,UNMETERED.Exchange
+2496,1,1.0,BE,BelgiumIX,Belgium Internet Exchange
+2522,1,1.0,KR,KRIX(sejong),Korea Internet Exchange
+2611,1,1.0,UA,KM-IX,Khmelnitskiy Internet Exchange Point
+2680,1,1.0,PE,Peru IX (PIT Peru sac) - Lima,Peru IX (PIT Peru sac) Lima - Neutral Internet Exchange
+2729,1,1.0,BF,BFIX Ouagadougou,Burkina Faso Internet Exchange Point (BFIX) Ouaga
+2730,6,0.3333333333333333,DE,LocIX Dusseldorf,LocIX Internet Exchange Dusseldorf
+2766,7,1.0,ID,IIX-Jabar,
+2815,1,0.0,KE,Asteroid Mombasa,Asteroid Mombasa
+2836,1,1.0,UZ,SNS-IX,SNS-IX
+2846,2,1.0,SE,Netnod Stockholm BLUE -- MTU1500,
+2915,1,0.0,UA,GigaNET Odessa,GigaNET Odessa local exchange
+3017,1,1.0,RU,PITER-IX Moscow,PITER-IX Moscow
+3018,5,0.0,EE,PITER-IX Tallinn,PITER-IX Tallin
+3117,1,1.0,MA,FEZIX,
+3149,12,0.9166666666666666,ES,IXPlay Madrid,
+3168,1,1.0,PS,PS-IX Ramallah,State of Palestine Internet Exchange
+3182,5,0.8,GT,GTIX,Guatemala Internet Traffic Exchange Point
+3352,1,0.0,TW,STUIX,Student & Technology United Internet Exchanges
+3384,1,1.0,FR,BéarnIX,
+3471,3,0.0,HK,Aperture-IX,Aperture Internet Exchange
+3472,1,0.0,SG,DE-CIX ASEAN,DE-CIX ASEAN (Singapore  Malaysia  Brunei)
+3473,1,0.0,MY,DE-CIX Kuala Lumpur,
+3562,2,1.0,UA,1-IX Kyiv,1-IX Internet Exchange
+3634,1,1.0,US,Lambda-IX,Lambda Internet Exchange
+3654,1,1.0,CN,NNIX,
+3655,4,0.75,RU,VOLGA-IX,
+3739,2,0.0,DE,PITER-IX Frankfurt,
+3750,1,1.0,LV,GLV-IX,Government of Latvia Internet Exchange
+3788,33,0.9696969696969697,AR,AR-IX Cabase,AR-IX Cabase IXP Nacional
+3791,9,1.0,UA,Filanco-IX,
+3903,1,1.0,BD,ISPAB-NIX,Bangladesh Internet Service Provider Internet Exchange Trust
