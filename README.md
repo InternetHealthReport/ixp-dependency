@@ -1,9 +1,12 @@
 # Following the Data Trail: An Analysis of IXP Dependencies
 
-This is the accompanying repository for the PAM 2024 paper “Following the Data Trail: An
-Analysis of IXP Dependencies”. Here you can find the data and scripts required to
-reproduce the plots and analysis from the paper (and more). For updated weekly dependency data
-please refer to [the main website.](https://internethealthreport.github.io/ixp-dependency/)
+This is the accompanying repository for the PAM 2024 paper [“Following the Data
+Trail: An Analysis of IXP
+Dependencies”](https://www.iijlab.net/en/members/malte/tashiro_pam2024.pdf).
+Here you can find the data and scripts required to reproduce the plots and
+analysis from the paper (and more). For updated weekly dependency data please
+refer to [the main
+website.](https://internethealthreport.github.io/ixp-dependency/)
 
 This repository is self-contained and contains the entire data pipeline from the raw
 data to the final figures. However, there are some files that mark the source of the
@@ -46,3 +49,9 @@ The following files are “sources” in the sense that there is no script to cr
 - IXP outage traceroute statistics (`stats/ixp-outages`). We actually expanded and
   generalized the scripts used to create this data and moved them to a [separate
   repository](https://github.com/m-appel/atlas-traceroute-outage-inspector).
+
+## Reference
+
+> Malte Tashiro, Romain Fontugne, and Kensuke Fukuda, “Following the Data Trail:
+> An Analysis of IXP Dependencies”, Passive and Active Measurement (PAM'24),
+> March 2024.
